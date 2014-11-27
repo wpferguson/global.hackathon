@@ -5,8 +5,7 @@ João ..
 
 ## About us
 
-I have some ideas and a motivation to develop...\n
-teste
+I have some ideas and a motivation to develop...
 
 
 ## Languages we love
