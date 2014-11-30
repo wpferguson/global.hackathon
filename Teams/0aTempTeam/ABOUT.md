@@ -43,6 +43,6 @@ Lua
 #Our Plan
 
 Our plan is to make a html5 based game that teaches beginners how to code in a unique and new way.
-We will be using html5 mostly for the client side and node.js for the server side and mongodb for the db, we might also throw in some scripting languages if needed too.
+We will be using HTML5 and CSS3 mostly for client side and node.js for the server side and mongodb for the database, we might also throw in some scripting languages if needed too.
 
 #Thanks for Reading!
