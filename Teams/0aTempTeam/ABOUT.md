@@ -8,11 +8,17 @@ Stuff Here
 
 ![Michael](https://www.synergi.cc/ProfileSquareMediumJPG.jpg)
 
-Hello, I am Michael Leng, an aspiring 16 year old high school hacker. I mainly work with web languages, but have dabbled in languages like Java and C++. I enjoy coding for fun, skiing, and gaming. My main role in this competition will be front end development and design, as well as the coordination of the activities of other team members. This is my first hackathon, and I am extremely excited to participate.
+Hello, I am Michael Leng, an aspiring 16 year old high school hacker. I initially started working with computers at the age of around 8, and started messing around with programming around 5 years ago. I mainly work with web languages, but have dabbled in languages like Java and C++. I enjoy coding for fun, skiing, and gaming. My main role in this competition will be front end development and design, as well as the coordination of the activities of other team members. This is my first hackathon, and I am extremely excited to participate.
 
-###Add Your Name
+###Max Campbell
 
-###Add Your Name
+Add your bio here.
+
+###Dennis Planting
+
+![Dennis](https://www.dropbox.com/s/4rh7alby1sqxsmn/unicorn2.jpg?dl=0)
+
+Hello, I am Dennis Planting, I am 16 years old and from Sweden, I am a programmer and a server administrator. I have knowledge of multiple language ranging from simple languages like LUA, javascript etc. up to languages like c++, Java etc. I enjoy anything related to technology like coding, gaming, fixing hardware etc. I can't call my self an expert in most areas, I am fairly well rounded in everything, so my main role will be helping in multiple areas at once and helping where others know less.
 
 #Our Combined Skillset
 
@@ -22,10 +28,17 @@ JavaScript
 jQuery
 Node
 PHP
+Java
+C#
+C++
+C Programing
+Python
+Ruby
+Lua
 (Add more)
 
 #Our Plan
 
-Stuff Here
+Our plan is to make a html5 based game that teaches beginners how to code in a unique and new way.
 
 #Thanks for Reading!
