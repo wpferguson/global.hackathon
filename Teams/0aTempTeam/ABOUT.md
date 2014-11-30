@@ -22,20 +22,19 @@ Hello, I am Dennis Planting, I am 16 years old and from Sweden. I am a programme
 
 #Our Combined Skillset
 
-HTML5
-CSS3
-JavaScript
-jQuery
-Node
-PHP
-Java
-C#
-C++
-C Programing
-Python
-Ruby
+HTML5, 
+CSS3, 
+JavaScript, 
+jQuery, 
+Node, 
+PHP, 
+Java, 
+C#, 
+C++, 
+C, 
+Python, 
+Ruby, 
 Lua
-(Add more)
 
 #Our Plan
 
