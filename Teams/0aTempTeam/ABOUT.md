@@ -16,7 +16,7 @@ Add your bio here.
 
 ###Dennis Planting
 
-![Dennis](https://www.synergi.cc/tryyPic.jpg)
+![Dennis](https://www.synergi.cc/tryyPic500.jpg)
 
 Hello, I am Dennis Planting, I am 16 years old and from Sweden, I am a programmer and a server administrator.
 I have knowledge of multiple language ranging from simple languages like LUA, javascript etc. up to languages like c++, Java etc.
