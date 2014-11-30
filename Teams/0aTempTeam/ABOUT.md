@@ -12,7 +12,9 @@ Hello, I am Michael Leng, an aspiring 16 year old high school hacker. I initiall
 
 ###Max Campbell
 
-Hi, I am Max Campbell, a 16 year old coder and general computer enthusiast from the UK. I started playing with computers at about the age of 7-8 (with bash scripts). I soon started coding with php and dabbled in other lanaguges like C and Java, but loved the portability of the web. Now I mainly work with Node and am best at all things back end related. This is my 3rd hackathon; the other two were one week long and aimed at people my age.
+![Max](https://www.synergi.cc/maxPic500.jpg)
+
+Hi, I am Max Campbell, a 16 year old coder and general computer enthusiast from the UK. I started playing with computers at about the age of 7-8 (with bash scripts). I then started coding with php and dabbled in other lanaguges like C and Java, but loved the portability of the web. Now I mainly work with Node and am best at all things back end related. This is my 3rd hackathon; the other two were one week long and aimed at people my age.
 
 ###Dennis Planting
 
