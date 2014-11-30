@@ -12,13 +12,13 @@ Hello, I am Michael Leng, an aspiring 16 year old high school hacker. I initiall
 
 ###Max Campbell
 
-Hi, I am Max Campbell, a 16 year old coder and general computer enthusiast from the uk. I started playing with computers at about the age of 7-8 (with bash scripts). I soon started codeing with php and dabbled in other lanaguges like C and Java, but loved the portability of the web. Now I mainly code in Node and am best at all things back end related. This is my 3rd hackathon but the other two were one week long and aimed at people my age.
+Hi, I am Max Campbell, a 16 year old coder and general computer enthusiast from the UK. I started playing with computers at about the age of 7-8 (with bash scripts). I soon started coding with php and dabbled in other lanaguges like C and Java, but loved the portability of the web. Now I mainly work with Node and am best at all things back end related. This is my 3rd hackathon; the other two were one week long and aimed at people my age.
 
 ###Dennis Planting
 
 ![Dennis](https://www.synergi.cc/tryyPic500.jpg)
 
-Hello, I am Dennis Planting, I am 16 years old and from Sweden. I am a programmer and a server administrator. I have knowledge of multiple languages ranging from simpler languages like LUA and JavaScript up to languages like C++, Java and so on. I enjoy anything related to technology like coding, gaming, hardware hacking, etc. I can't call my self an expert in most areas, but I am fairly well rounded in everything, so my main role will be helping in multiple areas as well as helping where others know less.
+Hello, I am Dennis Planting. I am 16 years old and from Sweden. I am a programmer and a server administrator. I have knowledge of multiple languages ranging from simpler languages like LUA and JavaScript up to languages like C++, Java and so on. I enjoy anything related to technology like coding, gaming, hardware hacking, etc. I can't call my self an expert in most areas, but I am fairly well rounded in everything, so my main role will be helping in multiple areas as well as helping where others know less.
 
 #Our Combined Skillset
 
