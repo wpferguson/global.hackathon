@@ -16,9 +16,12 @@ Add your bio here.
 
 ###Dennis Planting
 
-![Dennis](https://www.dropbox.com/s/4rh7alby1sqxsmn/unicorn2.jpg?dl=0)
+![Dennis](https://www.synergi.cc/tryyPic.jpg)
 
-Hello, I am Dennis Planting, I am 16 years old and from Sweden, I am a programmer and a server administrator. I have knowledge of multiple language ranging from simple languages like LUA, javascript etc. up to languages like c++, Java etc. I enjoy anything related to technology like coding, gaming, fixing hardware etc. I can't call my self an expert in most areas, I am fairly well rounded in everything, so my main role will be helping in multiple areas at once and helping where others know less.
+Hello, I am Dennis Planting, I am 16 years old and from Sweden, I am a programmer and a server administrator.
+I have knowledge of multiple language ranging from simple languages like LUA, javascript etc. up to languages like c++, Java etc.
+I enjoy anything related to technology like coding, gaming, fixing hardware etc.
+I can't call my self an expert in most areas, I am fairly well rounded in everything, so my main role will be helping in multiple areas at once and helping where others know less.
 
 #Our Combined Skillset
 
@@ -40,5 +43,6 @@ Lua
 #Our Plan
 
 Our plan is to make a html5 based game that teaches beginners how to code in a unique and new way.
+We will be using html5 mostly for the client side and node.js for the server side and mongodb for the db, we might also throw in some scripting languages if needed too.
 
 #Thanks for Reading!
