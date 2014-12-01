@@ -6,17 +6,23 @@ We are a group of friends of high school students and technology enthusiasts. We
 
 ###Michael Leng
 
+Project Lead, Front End Developer, UI Designer
+
 ![Michael](https://www.synergi.cc/ProfileSquareMediumJPG.jpg)
 
 Hello, I am Michael Leng, an aspiring 16 year old high school hacker. I initially started working with computers at the age of around 8, and started messing around with programming around 5 years ago. I mainly work with web languages, but have dabbled in languages like Java and C++. I enjoy coding for fun, skiing, and gaming. My main role in this competition will be front end development and design, as well as the coordination of the activities of other team members. This is my first hackathon, and I am extremely excited to participate.
 
 ###Max Campbell
 
+Back End Developer
+
 ![Max](https://www.synergi.cc/maxPic500.jpg)
 
 Hi, I am Max Campbell, a 16 year old coder and general computer enthusiast from the UK. I started playing with computers at about the age of 7-8 (with bash scripts). I then started coding with php and dabbled in other lanaguges like C and Java, but loved the portability of the web. Now I mainly work with Node and am best at all things back end related. This is my 3rd hackathon; the other two were one week long and aimed at people my age.
 
 ###Dennis Planting
+
+Full Stack Developer
 
 ![Dennis](https://www.synergi.cc/tryyPic500.jpg)
 
