@@ -46,6 +46,6 @@ Lua
 
 #Our Plan
 
-Our current plan is to make a HTML5 based game that teaches beginners how to code in a unique and new way. We will be using HTML5 and CSS3 as well as JavaScript, jQuery, and Node.js. For back end we will be using MongoDB for the database. We might also throw in some other scripting languages if needed. This plan and the API's we are planning to use as listed here is tentative.
+Our current plan is to make a HTML5 based game that teaches beginners how to code in a unique and new way. We will be using HTML5 and CSS3 as well as JavaScript, jQuery, and Node.js. We will also be using MongoDB for the database. We might also throw in some other scripting languages if needed. This plan and the API's we are planning to use as listed here is tentative.
 
 #Thanks for Reading, and good luck to all the other teams!
