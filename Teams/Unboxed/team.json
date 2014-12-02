@@ -1,0 +1,26 @@
+{
+  "teamName": "Unboxed",
+  "members": [
+    {
+      "name": "Andrew White",
+      "twitter": "pixeltrix",
+      "koding": "pixeltrix",
+      "location": "London, UK",
+      "lead": false
+    },
+    {
+      "name": "Pawel Janiak",
+      "twitter": "cynicalgrinch",
+      "koding": "pawel2105",
+      "location": "Johannesburg, ZA",
+      "lead": false
+    },
+    {
+      "name": "Wilhelm Kirschbaum",
+      "twitter": "wkirschbaum",
+      "koding": "wkirschbaum",
+      "location": "Cape Town, ZA",
+      "lead": true
+    }
+  ]
+}
