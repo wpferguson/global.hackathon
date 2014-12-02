@@ -67,11 +67,11 @@ See [volkan.io](http://volkan.io/) and [@linkibol](http://twitter.com/linkibol) 
 Tecnhologies We Will Use
 =======
 
-* Node.JS
-* NGINX
-* Redis
-* MongoDB
-* Sockets and Stream (and **PubNub**, of course!)
-* Love, and passion,
-* Redbull (*is that a sponsor?*)
+* Node.JS;
+* NGINX;
+* Redis;
+* MongoDB;
+* Sockets and Stream (and **PubNub**, of course!);
+* Love, passion;
+* and Redbull (*is that a sponsor?*).
 
