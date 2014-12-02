@@ -71,7 +71,7 @@ Tecnhologies We Will Use
 * NGINX;
 * Redis;
 * MongoDB;
-* Sockets and Stream (*and **PubNub**, of course!*);
+* Sockets and Stream (*and PubNub, of course!*);
 * Love, passion;
 * and Redbull (*is that a sponsor?*).
 
