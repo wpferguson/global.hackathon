@@ -1,0 +1,36 @@
+{
+  "teamName": "X-Men",
+  "members": [
+    {
+      "name": "Munshi Riaz",
+      "twitter": "riaz_001",
+      "koding": "riazmunshi",
+      "location": "Hyderabad, IN",
+      "lead": true
+    },
+    {
+      "name": "Anil Talla",
+      "twitter": "sent0hil",
+      "koding": "sent-hil",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Shiva Prakash",
+      "twitter": "sinanyasar",
+      "koding": "sinan",
+      "location": "Hyderabad, IN",
+    },
+    {
+      "name": "Harsh Praful Dand",
+      "twitter": "devrimyasar",
+      "koding": "devrim",
+      "location": "Hyderabad, IN"
+    },
+    {
+      "name": "Mohammad Wajid ",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Hyderabad, IN"
+    }
+  ]
+}
