@@ -34,3 +34,5 @@ API to be used:
 * Facebook
 * Google Geocoding
 * Twitter
+* Google Maps
+* Google AJAX Libraries
