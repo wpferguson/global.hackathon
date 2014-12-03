@@ -14,4 +14,8 @@
 >> <h3> And atlast,</h3>
 >> <h5> We are COMEDIANS, when we laugh at our own mistaks :)</h5>
 
+--------------------------------------------
+
+We are specialized in  Java, Javascript, jQuery, HTML, CSS, and Google App Engine
+
 
