@@ -14,7 +14,7 @@ Acerca de nuestro Equipo
 Somos:
 |Daniel (dahngeek)|Edgar (colochob)
 |--- |---
-| ![Dahngeek](hhttp://dahngeek.com/d/Geekventorz/smalldahngeek.jpg) | ![Colochob](http://dahngeek.com/d/Geekventorz/smallcolochob.jpg) |
+| ![Dahngeek](http://dahngeek.com/d/Geekventorz/smalldahngeek.jpg) | ![Colochob](http://dahngeek.com/d/Geekventorz/smallcolochob.jpg) |
 
 Edgar
 =======
