@@ -7,7 +7,7 @@ Welcome to Team OurBrilliance!
 
 We are a group of high school students with varying degrees of experience with code and a burning passion for creation! We're looking forward to working with all of the frameworks we can here!
 For Qile, Akash, Arsalan and Fiza, this will be our second ever hackathon. It'll be the first one for Mona! We're all here to learn as much as we can, and do our very best to make something great!
-We're all psyched out to be a part of the world's first ever virtual hackathon!
+We're all psyched out to be a part of the world's first ever global virtual hackathon!
 
 
 | Qile | Akash | Andany | Fiza | Mona
