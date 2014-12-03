@@ -2,14 +2,15 @@ Gouden Ringen
 ================
 
 Hi guys, we are Gouden Ringen. 
+Currently major is Information System and Technology, Institut Teknologi Bandung.
 We are interested in business and technical. To make better world!
 
 The Team
 ===========================
 
-| andy | fatoni | raosan
+| raosan | fatoni | andy
 |--- |--- |--- 
-| ![Andy](http://jarkomania.com/aset/img/andy-primawan.png) | ![Fatoni](http://jarkomania.com/aset/img/fatoni.jpg) | ![Raosan](http://jarkomania.com/aset/img/raosan-fikri-lillahi.png) 
+| ![Raosan](http://jarkomania.com/aset/img/raosan-fikri-lillahi.png) | ![Fatoni](http://jarkomania.com/aset/img/fatoni.jpg) | ![Andy](http://jarkomania.com/aset/img/andy-primawan.png)  
 
 Andy
 ----------
