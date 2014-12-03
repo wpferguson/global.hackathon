@@ -5,7 +5,8 @@
       "name": "Alvin Ong Xing Jui",
       "twitter": "xing_jui",
       "koding": "koding username",
-      "location": "Kuala Lumpur, MY"
+      "location": "Kuala Lumpur, MY",
+      "lead": true
     },
     {
       "name": "Lim Jit Yang",
@@ -14,23 +15,22 @@
       "location": "Kuala Lumpur, MY"
     },
     {
-      "name": "Sinan Yasar",
-      "twitter": "sinanyasar",
-      "koding": "sinan",
-      "location": "San Francsico, US",
-      "lead": true
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": "Kuala Lumpur, MY"
     },
     {
-      "name": "Devrim Yasar",
-      "twitter": "devrimyasar",
-      "koding": "devrim",
-      "location": "San Francsico, US"
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": "Kuala Lumpur, MY"
     },
     {
-      "name": "Nitin Gupta",
-      "twitter": "gniting",
-      "koding": "nitin",
-      "location": "Turin, IT"
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": "Kuala Lumpur, MY"
     }
   ]
 }
