@@ -1,7 +1,7 @@
 
 # one87
 
-I'm Mickel and this is my first hackathon, which I plan to win. Decaf. #winning #nocoffeeneeded
+I'm Mickel and this is my first hackathon, which I plan to win. Caffeine-free. #winning #nocoffeeneeded
 
 ### Artillery
 
