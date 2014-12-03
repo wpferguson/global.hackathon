@@ -17,7 +17,7 @@ The team is made up on a group of very diverse individuals, and just like the co
 
 Programming is a lifestyle for our two ECE members and a passion for all of us. We are still in the process of learning and discovering new and interesting languages to use, while fine tuning some skills that we learned along our careers.
 
-| paulliwali | lyamelia | phantastik | benwang | Matt |
+| paulliwali | lyamelia | phantastik | benwang | mattpua |
 |---|---|---|---|---|
 | ```python``` | ```Design``` | ```C``` | ```Objective C/Swift``` | ```Javascript``` |
 | ```HTML/CSS``` | ```Objective C/Swift``` | ```PHP``` | ```JAVA``` | ```C``` |
