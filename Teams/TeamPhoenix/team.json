@@ -1,0 +1,24 @@
+{
+  "teamName": "Team Phoenix",
+  "members": [
+    {
+      "name": "Sudharsanan Muralidharan",
+      "twitter": "sudharshan_iyer",
+      "koding": "sudharti",
+      "location": "TX, US"
+    },
+    {
+      "name": "Shrikanth R",
+      "twitter": "Shrikanth_kr",
+      "koding": "shrikanthkr",
+      "location": "Chennai, IN",
+      "lead": true
+    },
+    {
+      "name": "Girish Koundinya",
+      "twitter": "_tink3r",
+      "koding": "girish126",
+      "location": "Chennai, IN"
+    }
+  ]
+}
