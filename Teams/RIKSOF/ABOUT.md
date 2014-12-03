@@ -1,18 +1,16 @@
 
-Welcom to Team RIKSOF!
+Welcome to Team RIKSOF!
 ================
 
-RIKSOF is a full-cycle software development company with a team of experienced developers with proven success in mobile and web applications.
+[RIKSOF is a team of web and mobile app developers](http://www.riksof.com). We love being part of startups looking to build high-impact, innovative products.
 
-RIKSOF is especially teamed up with professional experts of android and ios application development, web application development, php, mysql, javascript, jquery, zend framework, node.js, cross platform front end development, creative graphic designing to provide a complete solution for fresh startups and updating existing businesses with modern software development methodologies.
-
-Our Team
+The Team
 ===========================
 
 | Khurram | Zeeshan | Lalani |
 |:----:|:----:|:----:|
 | ![mkhurramali](https://dl.dropboxusercontent.com/s/fvb5di7forgt3ia/lead.jpg) | ![mzeeshan](https://dl.dropboxusercontent.com/s/qksqhfxxcg5gf82/d1.jpg) | ![zzlalani](https://dl.dropboxusercontent.com/s/wy5sgbdyfux2yzh/d2.jpg) |
-| Technology Guru with more than 10 years of diverse software development and project management. Demonstrated experience and repeated success in bringing innovative ideas to life. | Stand out of the crowd! With over 5 years of experience producing from mobile to web applications, I bring creative ideas to the virtual life. I am passionate about my work and I like to get things done well. I develop web based applications using Php, Mysql, Javascript, jQuery, Zend Framework and Node.js. | Highly motivated and dedicated software engineer & architect with comprehensive knowledge, can work tirelessly under stress and strain. Excellent experience working with object oriented PHP & MySQL using Yii MVC framework and Objective C iOS. |
+| I have been part of the tech industry for over 14 years and have had the fortune of working in a variety of industries including embedded, web and finally mobile. | Stand out of the crowd! Over 5 years producing mobile an web applications, I bring creative ideas to the virtual life. I am passionate about my work and I like to get things done well. I develop web based applications using PHP, MySQL, JavaScript, jQuery, Zend Framework and Node.js. | Highly motivated and dedicated software engineer & architect with comprehensive knowledge, can work tirelessly under stress and strain. Excellent experience working with object oriented PHP & MySQL using Yii MVC framework and Objective C iOS. |
 | Rehan | Sharjeel | - |
 | ![riksof-rehan](https://dl.dropboxusercontent.com/s/asbngo8y0lvj27h/q1.jpg) | ![sharjeelkhan](https://dl.dropboxusercontent.com/s/a2xp5bw63imyl38/d3.jpg) | - |
-| Passionate QA Professional have worked on multi-dimensional projects. Loved to work in a challenging environment which synergies my conceptual and technical skills coupled with hard work & determination. | I am a Graphic Designer with fresh ideas, specializing in User Interface Design and Development. I build clean, appealing, and functional interfaces which comply with the latest web standards. | - |
+| Passionate QA Professional having worked on multi-dimensional projects. Love challenges that test my conceptual, technical and managerial skills. | I am a Graphic Designer with fresh ideas. I specialize in User Interface Design and Development. I build clean, appealing, and functional interfaces that comply with the latest web and mobile standards. | - |
