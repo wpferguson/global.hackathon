@@ -52,6 +52,8 @@ He can wear many hats, including "usability expert", "coder", "designer associat
 
 His energy, and stamina, is what makes this group a "**team**"!
 
+[Follow him »»](https://twitter.com/icsahin)
+
 ### Volkan Özçelik
 
 Jack of all trades, master of JavaScript. 
