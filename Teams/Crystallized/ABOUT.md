@@ -7,6 +7,8 @@ Team Crystallized
 Pascal -> very briefly Java -> Python -> C++ -> Javascript.
 
 Looking forward to giving something back to the community.
+
+What?
 =======
 Fell in a love-hate relationship with Javascript 2 years ago. 
 
