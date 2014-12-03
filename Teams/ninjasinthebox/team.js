@@ -25,6 +25,12 @@
       "twitter": "",
       "koding": "kriskros",
       "location": "Berlin, DE"
+    },
+    {
+      "name": "joan",
+      "twitter": "",
+      "koding": "joan",
+      "location": "Berlin, DE"
     }
   ]
 }
