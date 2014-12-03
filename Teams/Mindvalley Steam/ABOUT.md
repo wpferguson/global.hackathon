@@ -1,4 +1,4 @@
-# [Mindvalley] (http://www.mindvalley.com)
+# Mindvalley Steam
 
 | Jimmy | Ramin | Tristan | Victor | Chee Seng |
 |---|---|---|---|---|
