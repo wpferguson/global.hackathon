@@ -1,0 +1,26 @@
+{
+  "teamName": "SZABISTians",
+  "members": [
+    {
+      "name": "Alishah Momin",
+      "koding": "alishahmomin",
+      "location": "karachi, PA"
+    },
+    {
+      "name": "Talha Ashraf",
+      "koding": "",
+      "location": "karachi, PA"
+    },
+    {
+      "name": "Ammar Ahmed",
+      "koding": "",
+      "location": "karachi, PA",
+      "lead": true
+    },
+    {
+      "name": "Daniyal Raza",
+      "koding": "",
+      "location": "karachi, PA"
+    }
+  ]
+}
