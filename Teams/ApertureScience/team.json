@@ -1,0 +1,24 @@
+{
+  "teamName": "Aperture Science",
+  "members": [
+    {
+      "name": "Tim Turner",
+      "twitter": "turnert",
+      "koding": "tturner",
+      "location": "Seattle, US",
+      "lead": true
+    },
+    {
+      "name": "Eric Jackson",
+      "twitter": "Eric_J_Designer",
+      "koding": "ericj",
+      "location": "Rockford, US",
+    },
+    {
+      "name": "Super Bear",
+      "twitter": "superbear_cn",
+      "koding": "superbear",
+      "location": "wuhan, CN"
+    }
+  ]
+}
