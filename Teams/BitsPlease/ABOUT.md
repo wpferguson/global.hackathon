@@ -6,7 +6,7 @@ Hi all, welcome to the home of #BitsPlease
 About Us
 ===========================
 
-| paulliwali | lyamelia | phantastik | Benwang | Matt |
+| paulliwali | lyamelia | phantastik | benwang | Matt |
 |---|---|---|---|---|
 |![paulliwali](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)|![lyamelia](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg)|![phantastik](http://www.hpc4health.ca/hpc4health/sites/default/files/brian.jpg)|![benwang](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/09d/23d/06b70dc.jpg)|![Matt](http://placehold.it/350x150)|
 
