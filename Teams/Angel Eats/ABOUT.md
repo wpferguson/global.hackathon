@@ -31,7 +31,7 @@ I will try, first of all getting fun! :-)
 
 ===========================
 
-| Maria Beatrice (@grapholution)
+| Maria Beatrice (@mbeawk)
 |--- 
 | ![Maria Beatrice Wierusz Kowalska](https://github.com/aissatech/aissatech.github.io/blob/master/images/Maria_Beatrice_Koding.jpg) 
 
