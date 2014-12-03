@@ -13,8 +13,8 @@ Individually we are engineers from different disciplines at the University of To
 
 The team is made up on a group of very diverse individuals, and just like the country we are from, CANADA, we believe it is our greatest asset. We have Amelia Ly from Regina who is studying to become a Civil Engineer. Some might say that she is just a small town girl, living in a lonely world, who took the midnight train that landed her right here in Toronto. We also have Paul Deng, an Infrastructure Engineer from Surrey BC. Now if you know anything about the greater Vancouver area, you would have know that Surrey was not the best neighbourhood. However Paul was able to overcome all that and make it all the way here. He believes that every major decision he made in his life leads up to this moment - the Global Hackathon. Next up we have Brian Phan. This man is not only a Systems Specialist interning at one best hospitals in Toronto, he is also a marathon runner. Legends have it that he once debugged a program while running the Toronto Waterfront Marathon. Another member of the team is Matt Pua. He is a man with brain and bronze. This Electrical Engineer fills his spare time with dragon boating and running obstacle course that end literally with him jumping through fire. The final member of the team is Benjamin Wang, an Industrial Engineer from Vancouver. In high school he was nominated as most likely to be used luxury car sales man. However today he walks a different path and hopes that the Global Hackathon will change his future.
 
-About your skills and what you are going to do?
-=======
+##About your skills and what you are going to do?
+
 Programming is a lifestyle for our two ECE members and a passion for all of us. We are still in the process of learning and discovering new and interesting languages to use, while fine tuning some skills that we learned along our careers.
 
 | paulliwali | lyamelia | phantastik | benwang | Matt |
