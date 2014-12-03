@@ -19,6 +19,12 @@
       "twitter": "",
       "koding": "morriswinkler",
       "location": "Berlin, DE"
+    },
+    {
+      "name": "kris",
+      "twitter": "",
+      "koding": "kriskros",
+      "location": "Berlin, DE"
     }
   ]
 }
