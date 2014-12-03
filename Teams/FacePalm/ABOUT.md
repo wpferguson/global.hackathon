@@ -5,7 +5,7 @@ Attending individually in the hackathon contest. I'm determined to solve problem
 
 ##About Me
 I'm *Anisuzzaman Khan* from Dhaka, BD. Undergraduate student, programmer, problem solver, developer, gamer.<br>
-Will be working on topic #2
+Will be working on topic #3 (interactive solution to TOS, EULA, legal documents)
 
 ##Skills
  * C/C++
