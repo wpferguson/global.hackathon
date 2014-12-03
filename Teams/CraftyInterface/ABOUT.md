@@ -1,4 +1,4 @@
-# Black Dragon
+# Crafty Interface
 
 My name is Vedran, I have a lot of ideas and I want to make some of them happen.
 
