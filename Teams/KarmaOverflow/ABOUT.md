@@ -19,4 +19,5 @@ Samyak Bhutta
 
 `Java` `Java` `Java`  
 `Python`  
+`Javascript`  
 `PHP`
