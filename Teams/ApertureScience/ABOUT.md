@@ -1,6 +1,7 @@
+
 Aperture Science
-We Do What We Must Because We Can
 ================
+We Do What We Must Because We Can
 
 Our team was formed entirely from the community on Koding.com with a diverse mixture of developers providing us with unique and creative perspectives for exploring the challenges presented by the Koding.com themes.
 
