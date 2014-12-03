@@ -2233,6 +2233,17 @@ Ops. I still have no idea. Just want to build something simple and useful as a p
 
 ---------------------------------------
 
+#About our Team
+
+Suresh | Eshwar
+
+Welcome to Koding global Hackathon.
+
+Greetings, from Clique!
+
+
+---------------------------------------
+
 Cloud Solvers
 ================
 
@@ -2406,6 +2417,25 @@ About CodeGreen Team
 
 
 We are a passionate group of developers, interested in making a difference and determined to help protect the environment by taking small, everyday steps. We look forward to collaborate and create something unique by participating to this challenge
+
+
+---------------------------------------
+
+# Team CodeMixers
+
+We are Restie and Shane. We'll create awesome apps!
+
+
+## About Us
+
+Hi, I'm Restie. I love coding. I'm always upgrading my Web Development skills.
+
+Hi, I'm Shane. I love coming up with concepts for apps. I'm always open to suggestions.
+
+
+## Languages
+PHP
+JavaScript
 
 
 ---------------------------------------
@@ -2724,6 +2754,32 @@ My name is Jesiniel. I live in Puerto Rico. I am currently a student at UPRM whe
 
 - Java
 - C
+
+
+---------------------------------------
+
+# Crafty Interface
+
+My name is Vedran, I have a lot of ideas and I want to make some of them happen.
+
+## About me
+
+I'm a front-end developer who is excited about the endless potential of the web, and being able to build things that a lot of people can use every day. I'm passionate about my craft, I have a good eye for details and an absolute commitment to making sure features are well implemented. I always write maintainable front-end markup. I love responsive web design and mobile-first perspective. 
+
+I can transform designs and concepts into efficient and lively interactive user experiences that are quick and responsive.
+
+My second passion is crafting user interfaces with a seamless user experience in mind. Creating prototypes and wireframes is my joy. 
+
+I have working knowledge on the application level programming with Ruby on Rails. I will be using RoR for making my idea happen.
+
+### What I know
+
+Modern HTML, JavaScript and CSS
+JavaScript MVC framework AngularJS
+Third party CSS and Javascript libraries and frameworks
+Application level programming with Ruby on Rails
+Social web services and APIs (Facebook, Twitter, etc)
+Working with version control (GIT)
 
 
 ---------------------------------------
@@ -4014,6 +4070,26 @@ Technologies: super PHP and amazing JS.
 
 ---------------------------------------
 
+GoKode
+================
+
+Welcome to the GoKode team page  :)
+
+
+Team GoKode (single person)
+============================
+
+Hello, my name is Archit and I'm a software engineer from Hyderbad, IN. 
+
+
+Skills
+=======
+Programming: Java, Python, C, C++
+
+
+
+---------------------------------------
+
 Gouden Ringen
 ================
 
@@ -5160,6 +5236,33 @@ I am targeting JavaScript based web app.
 
 ---------------------------------------
 
+## Team name: `KarmaOverflow`
+
+## Team Detail:
+
+Jigar Joshi
+>"`developer`"   
+
+Nirmal Pathak
+>"I break things!"   
+
+Darshan Joshi
+
+>"A Passionate Programmer"   
+
+Samyak Bhutta
+>"`developer` in love with recursion"
+
+#Language we love
+
+`Java` `Java` `Java`  
+`Python`  
+`Javascript`  
+`PHP`
+
+
+---------------------------------------
+
 # KawaiiDesuDevs
 
 We are two high-school students (and maybe the only ones in this hackatoon) from Brazil.
@@ -5713,6 +5816,26 @@ We are Eric, Gerry, and Irene. We are all from UBC and love creating awesome and
 
 ---------------------------------------
 
+<p align="center"><img src="https://raw.githubusercontent.com/3emad/koding-hackathon/23db3c2/Maze/Mazesolve_bbc.gif"/></p>
+
+Welcome to the Maze
+===========================
+
+We are a pair of programmers who have nothing in common except for Dota 2. We figure that if we can play with and against swearing teenage gamers and still get along, we can code together and not kill each other.
+  
+
+
+About Our Team
+===========================
+
+| | |
+|--- |--- |
+| <img width="100" height="100" src='https://s.gravatar.com/avatar/dbc38b4a6b385c35d98cbde918134103?s=120' alt='Emad'/> | <h5>Emad Al-Shihabi</h5> [Website](http://www.3emad.com) <br /> A passionate software engineer specialized in web development <br />techonologies who loves to hack prototypes once an idea pops up in his <br />head or he couldn't find a tool to help him with his life daily.  |
+|<img width="100" height="100" src='https://s.gravatar.com/avatar/55fa7c8732748824675b5b6bc0429686?s=120' alt='Myrddin'/>|<h5>Myrddin Emrys</h5> [Website](https://plus.google.com/+MyrddinEmrys/posts) <br/>Having worked in IT for twenty years as a Network Admin, Web Developer, <br />Database Analyst, and a lot of other buzzwords, Myrddin was the sole <br />technical employee at his first job, a small ISP, and wore every hat. Since <br />then he has grown to prefer helping people use technology by making <br />systems easier to use and supporting them directly. He is a jack of all trades <br />and master of few.|
+
+
+---------------------------------------
+
 Meteorhacks
 ===========
 
@@ -6217,6 +6340,58 @@ My name is Duncan Hill, I'm a student at the University of Missouri, Columbia.
 I'm finishing my CS degree now, but I've been working in the industry for several years.
 
 I enjoy developing in several languages: C#, F#, and Haskell.
+
+
+---------------------------------------
+
+Welcome to Team OurBrilliance!
+================
+
+<p align="center">
+  <img src="http://i.imgur.com/EbCmSgj.png"/>
+</p>
+
+We are a group of high school students with varying degrees of experience with code and a burning passion for creation! We're looking forward to working with all of the frameworks we can here!
+For Qile, Akash, Arsalan and Fiza, this will be our second ever hackathon. It'll be the first one for Mona! We're all here to learn as much as we can, and do our very best to make something great!
+We're all psyched out to be a part of the world's first ever global virtual hackathon!
+
+
+| Qile | Akash | Andany | Fiza | Mona
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='http://i.imgur.com/UH74YC5.jpg' alt='Qile'/>| <img width="100" height="100" src='http://i.imgur.com/ixbdc3o.jpg' alt='Akash'/>| <img width="100" height="100" src='http://i.imgur.com/vrpZDn1.jpg' alt='Andany'/>| <img width="100" height="100" src='http://i.imgur.com/UnBkSZG.jpg' alt='Fiza'/> |<img width="100" height="100" src='http://i.imgur.com/z8AsmZZ.jpg' alt='Mona'/>|
+
+
+Qile
+========
+Qile Wang is an aspiring developer, and is currently experimenting with a variety of media to find the one that best suits him. He has experience in various mediums of code, including a partial mastery of C++, Javascript, XML, and Android Development. He is proficient at HTML, CSS, and regular Java. He turns black coffee into code.
+
+Akash
+========
+Akash Patel is an Ontario highschool student and aspiring programmer.He has worked with Java, Javascript, some python and HTML/CSS. Akash hopes to pursue further studies in computer science at university (Waterloo!!) and is looking to hone and sharpen his code-fu skills before he's there.
+
+Arsalan A.K.A. "Andany"
+========
+Arsalan Andany (or Andany as he prefers) is a grade 12 high school 
+student from Canada. This hackathon will be the second hackathon he
+will have participated in. He has been amazed by the power of computers since
+he was a little kid and this lead him to aim to be computer scientist.
+Andany hopes to pursue his post-secondary studies at the University of
+Waterloo. Andany is proficient in Java and Python and is building
+his skills in html and javascript. He wants to participate in this 
+hackathon for the hell of it (and the experience).
+
+Fiza
+========
+Fiza is an ambitious Software Engineer, currently in highschool. She is a self-taught coder and has experience coding in JavaScript, Python and Perl. She is passionate about robotics, photography and coding. Geek at heart and ready to code the next big phenomena with team OurBrilliance.
+
+Mona
+========
+Mona Shamte is a canadian twelfth grader. She is originally from Dubai.
+Mona loves to code and is super psyched about participating in the
+world's first virtual hackathon. She is a proficient java-and-html-er
+and looks forward to putting her skills on the test. She is often called 
+the newb of her group (as this is her very first hackathon ever) but 
+she's here to shake that title off!
 
 
 ---------------------------------------
@@ -8130,6 +8305,28 @@ I am Anirban and this is a one member team.
 
 ---------------------------------------
 
+
+#Team Habesha
+
+A proud team from Ethiopia that make it happen!
+
+#About Us
+
+Biniam Asnake - senior software engineer at Apposit LLC - Grails and Android Hacker
+
+Alexander Suraphel - senior software engineer at Apposit LLC - [Gr/R]ails and everything web related
+
+#Languages we love
+
+- Ruby
+- Groovy
+- Javascript
+- Java
+- C
+
+
+---------------------------------------
+
 # Team Hairball
 
 _Hacking code and fur_
@@ -8949,6 +9146,24 @@ I am looking for team members.
 
 ---------------------------------------
 
+# TinyCode
+
+Our team is only one person for now(I believe it will grow soon).
+
+## About us
+
+- Ivan: My name is Ivan, I love algorithms and data structures.
+
+## Technologies we love
+- C#
+- Java
+- jQuery/js
+- Android
+- Web
+
+
+---------------------------------------
+
 # TolkoPobeda Team
 
 We want make some supaprogram!
@@ -9738,6 +9953,31 @@ About your skills and what you are going to do?
 
 2. Nhi is a great UI and UX designer. She loves making gorgeous design.
 
+
+
+---------------------------------------
+
+
+About our team
+1. Akshay Agarwal
+2. Varun kumar
+
+
+
+
+About Akshay Agarwal:
+Hello, 
+
+I am a senior software engineer and my technical expertise includes linux shell scripts,PHP (Zend , Magento , Core PHP ),curl cronjobs,  SAS scripts , PYTHON VARIOUS MODULES, backtesting engine(ZIPLINE),pandas , R programming  language image processing ,  ror, regex, sed , awk curl , java ,JSP, php , phpcli, node.js , php.js , Iframes,javascript, ajax, HTML5, Jquery,XML, SOAP, socket programming ,parser, tokenizer, analyser, machine learning, pattern recognition, natural language processing using python ntlk toolkit. on various linux platforms.
+Have expr as linux system administrator (various linux platforms )including file servers , lamp servers,mail (SMTP,POP3,IMAP) , ticket trac system, third party accountability, authentication, authorization,  using RADIUS and TACACS, DHCP,DNS , proxy configuration (SQUID), reverse proxy , nat, pat , firewall , ipsec tunneling, VPN GRE tunnel,CISCO and JUNIPER router configuration , acl configuration, UTM(unified threat management).
+
+
+Have done projects involving web crawling , multithreading , OCR tools , automation , ebay /amazon  automation of the price adjustments .
+
+
+About Varun kumar
+
+ I'm 9 yrs experienced backend developer working in pure #OOPS based #MVC #Frameworks like #Zend, #CakePHP, #Codeigniter. Also confident in #JSON, #YAML, #XML, #RESTFUL, #JQUERY, #GOOGLE #APIs, #Ajax, #memcached, #SOAP, #WSDL, #GIT, #SVN, #php, #mysql, #javascript, #HTML5, #CSS3, #bootstrap, #960.gs, #ecommerce, #saas. 
 
 
 ---------------------------------------
