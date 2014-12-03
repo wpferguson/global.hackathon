@@ -1,0 +1,24 @@
+{
+  "teamName": "GoudenRingen",
+  "members": [
+    {
+      "name": "Andy Primawan",
+      "twitter": "andypmw",
+      "koding": "andyprimawan",
+      "location": "Bandung, ID",
+      "lead": true
+    },
+    {
+      "name": "Fatoni",
+      "twitter": "emfatoni",
+      "koding": "emfatoni",
+      "location": "Bandung, ID"
+    },
+    {
+      "name": "Raosan",
+      "twitter": "raosanFL",
+      "koding": "raosanfl",
+      "location": "Bandung, ID"
+    }
+  ]
+}
