@@ -26,4 +26,5 @@ oDesk profile: https://www.odesk.com/users/~010602673f4dd81166
 ##Joseph Loyola 
 
 front-end web developer html5 css3 javascript
+
 oDesk profile: https://www.odesk.com/users/~01a4baa7f15ff45738
