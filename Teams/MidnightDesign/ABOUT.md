@@ -2,7 +2,12 @@ MidnightDesign
 ================
 
 <table>
-<tr><td>![Brooks](https://pbs.twimg.com/profile_images/1389022310/brooks_0037_head_200x200.jpg)</td><td style="text-align:center"><p style="font-style:italic;">Teaching computers<br />to make art with just some code.<br />It is what I do.</p><p>[GitHub](https://github.com/MidnightLightning) &bull; [Twitter](http://twitter.com/midnight426) &bull; [LinkedIn](http://www.linkedin.com/in/midnightlightning/)</p></td></tr>
+<tr><td>
+<img src="https://pbs.twimg.com/profile_images/1389022310/brooks_0037_head_200x200.jpg" />
+</td><td style="text-align:center">
+<p style="font-style:italic;">Teaching computers<br />to make art with just some code.<br />It is what I do.</p>
+<p><a href="https://github.com/MidnightLightning">GitHub</a> &bull; <a href="http://twitter.com/midnight426">Twitter</a> &bull; <a href="http://www.linkedin.com/in/midnightlightning/">LinkedIn</a></p>
+</td></tr>
 </table>
 
 I am Brooks Boyd; designer and developer. I love making wonderful things, and using code to do so is just another way to create art in my mind. I've been developing web applications for nearly two decades now, and joined into this Hackathon as a means to focus on one of several projects I've been toying around with.
