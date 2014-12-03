@@ -1,5 +1,5 @@
 
-Welcom to Team RIKSOF page!
+Welcom to Team RIKSOF!
 ================
 
 RIKSOF is a full-cycle software development company with a team of experienced developers with proven success in mobile and web applications.
@@ -9,10 +9,14 @@ RIKSOF is especially teamed up with professional experts of android and ios appl
 Our Team
 ===========================
 
-| Khurram | Zeeshan | Lalani | Rehan | Sharjeel
-|--- |--- |--- |--- |--- |
-| ![mkhurramali](https://dl.dropboxusercontent.com/s/fvb5di7forgt3ia/lead.jpg) | ![mzeeshan](https://dl.dropboxusercontent.com/s/qksqhfxxcg5gf82/d1.jpg) | ![zzlalani](https://dl.dropboxusercontent.com/s/wy5sgbdyfux2yzh/d2.jpg) | ![riksof-rehan](https://dl.dropboxusercontent.com/s/asbngo8y0lvj27h/q1.jpg) |
+| Khurram | Zeeshan | Lalani |
+|--- |--- |--- |
+| ![mkhurramali](https://dl.dropboxusercontent.com/s/fvb5di7forgt3ia/lead.jpg) | ![mzeeshan](https://dl.dropboxusercontent.com/s/qksqhfxxcg5gf82/d1.jpg) | ![zzlalani](https://dl.dropboxusercontent.com/s/wy5sgbdyfux2yzh/d2.jpg) |
+| Rehan | Sharjeel |  |
+|--- |--- |--- |
+| ![riksof-rehan](https://dl.dropboxusercontent.com/s/asbngo8y0lvj27h/q1.jpg) |
 ![sharjeelkhan](https://dl.dropboxusercontent.com/s/a2xp5bw63imyl38/d3.jpg) |
+|
 
 M Khurram Ali (Lead)
 =======
