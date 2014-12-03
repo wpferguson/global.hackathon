@@ -1,0 +1,28 @@
+{
+  "teamName": "JHackers",
+  "members": [
+    {
+      "name": Srinivas Miriyala",
+      "koding": "srinivas2828",
+      "location": "Hyderabad, India"
+	  
+    },
+	{
+      "name": "Akshat Singh",
+      "koding": "log2akshat",
+      "location": "Pune, India",
+	"lead":true
+    },
+	{
+      "name": "Kumaran SB",
+      "koding": "javagiri",
+      "location": "Pune, India"
+    },
+	{
+      "name": "Aditi Bhatt",
+      "koding": "aditibhatt18",
+      "location": "Pune, India"
+    }
+
+  ]
+}
