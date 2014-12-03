@@ -1,4 +1,4 @@
-# EpciCode
+# Epic Coders
 
 ## About Us
 
