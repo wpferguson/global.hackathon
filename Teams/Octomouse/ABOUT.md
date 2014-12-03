@@ -18,8 +18,8 @@ About octomouse
 
 Pulpo
 ===========================
-''Roles:'' '''Coding octopus.'''
-(http://www.finalfantasy500.com/500/charimagessz/ultros3.jpg)
+**Roles:** _Coding octopus_
+<img src="http://www.finalfantasy500.com/500/charimagessz/ultros3.jpg" width='100px'/>
 
 I am coding since i was 14. 8 years doing that professionally. I changed jobs so many times that i'm not deeply experienced in any language or tool but i learned a lot along the way.
 I joined this hackaton because i love challenges and i want to do something fun an exciting.
@@ -27,15 +27,17 @@ I joined this hackaton because i love challenges and i want to do something fun 
 
 The Brain
 ===========================
-''Roles:'' '''Lab rat, world coqueror, evil mastermind.'''
-(http://images.sodahead.com/profiles/0/0/3/6/3/1/7/0/3/Pinky-and-the-brain-107523493925.jpeg)
+**Roles:** _Lab rat, world coqueror, evil mastermind_
+<img src="http://images.sodahead.com/profiles/0/0/3/6/3/1/7/0/3/Pinky-and-the-brain-107523493925.jpeg" width='100px'/>
+
 
 He is too bussy trying to conquer the world, so he can't write his description. I'll do it for him: He is awesome, creative, and a great coder. Specialist in database design.
 
 Pinky
 ==========================
-''Roles:'' '''Lab rat, spoiling world conquers mastermind, narf!'''
-(https://pbs.twimg.com/profile_images/549419368/Pinky.jpg)
+**Roles:** _Lab rat, spoiling world conquers mastermind, narf!_
+<img src="https://pbs.twimg.com/profile_images/549419368/Pinky.jpg" width='100px'/>
+
 
 He is too bussy bothering the brain and spoiling his plans, so he can't write his description. I'll do it for him: He is awesome, creative, and has an eye for perfection. Specialist in web technologies.
 
