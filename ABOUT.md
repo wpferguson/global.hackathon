@@ -10,7 +10,7 @@ About your team
 ===========================
 
 | simon | 
-![Devrim](kofe.png) 
+| ![Devrim](kofe.png) |
 
 I am an aspiring lifelong hacker. Ever since I got my hands on eletronics I was involved in changing the way it works because, well, nothing works the way it's supposed to! From opera songs on Commodore 64 to mechanical devices with Raspberry PI - I liked to get my hands dirty with. My carreer so far however has been mostly business but not much on the not so serious side. 
 
