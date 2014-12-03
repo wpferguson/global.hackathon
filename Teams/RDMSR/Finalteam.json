@@ -5,7 +5,8 @@
       "name": "Muneeb ul Hassan",
       "twitter": "@muneeb2405",
       "koding": "muneeb2405",
-      "location": "Karachi, PK"
+      "location": "Karachi, PK",
+      "lead": true
     },
     {
       "name": "Saad Qaiser Khan",
@@ -16,8 +17,7 @@
       "name": "Darooj Kumar",
       "twitter": "@darooj22",
       "koding": "darooj22",
-      "location": "Karachi, PK",
-      "lead": true
+      "location": "Karachi, PK"
     },
     {
       "name": "Rahul Chandani",
