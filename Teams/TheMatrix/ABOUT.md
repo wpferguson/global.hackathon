@@ -1,5 +1,5 @@
 
-# Team TheMatrix
+# TheMatrix
 
 I'm Ali, software/hardware engineer.
 
