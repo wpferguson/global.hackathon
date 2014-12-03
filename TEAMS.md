@@ -1823,6 +1823,25 @@ I am one
 
 ---------------------------------------
 
+# BluDwarf
+
+We aspire to greatness, though expect no reward.
+
+## members
+
+Kyle - Aplication engineering. Enjoy JS
+
+## languages used
+
+- JavaScript
+- C++
+- Java
+- Python
+- HTML/CSS
+
+
+---------------------------------------
+
 About me
 ===========================
 
@@ -3907,6 +3926,43 @@ The project will be awesome and extremely useful.
 Technologies: super PHP and amazing JS.
 
 
+
+
+---------------------------------------
+
+Gouden Ringen
+================
+
+Hi guys, we are Gouden Ringen. 
+Currently major is Information System and Technology, Institut Teknologi Bandung.
+We are interested in business and technical. To make better world!
+
+The Team
+===========================
+
+| raosan | fatoni | andy | kurniawan
+|--- |--- |--- |---
+| <img width="100" height="100" src='http://jarkomania.com/aset/img/raosan-fikri-lillahi.png' alt='Raosan'/> | <img width="100" height="100" src='http://jarkomania.com/aset/img/fatoni.jpg' alt='Fatoni'/> | <img width="100" height="100" src='http://jarkomania.com/aset/img/andy-primawan.png' alt='Andy'/> | <img width="100" height="100" src='http://jarkomania.com/aset/img/kurniawan.jpg' alt='Kurniawan'/>  
+
+Andy
+----------
+
+He is business guy. Want to make earth as a better place to live.
+
+Fatoni
+---------
+
+He is a movie lovers, also code lovers!
+
+Raosan
+--------
+
+He is a data researcher. Think quietly. Think globally, act locally.
+
+Kurniawan
+--------
+
+He is awesome artist. Cool design and fantastic user interface!
 
 
 ---------------------------------------
@@ -6069,6 +6125,40 @@ I enjoy developing in several languages: C#, F#, and Haskell.
 
 ---------------------------------------
 
+Welcome to POP_C team page!
+================
+
+We are a team of friends with a desire to bring up an innovative solution to make real time communication more fun and personalized. Our own experiance with popular chat applications has lead us to think of an 'out of box solution' where user feels more control over his real time experience.  
+
+About Our Team
+===========================
+
+| Udara | Mahesh | Dulitha | Madushan | Dushan
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/091/1a5/1fce262.jpg' alt='Udara'/> | <img width="100" height="100" src='https://media.licdn.com/media/p/5/005/05f/383/3d71bc7.jpg' alt='Mahesh'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/081/0b4/2c70420.jpg' alt='Dulitha'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/018/0ba/0b49f41.jpg' alt='Madushan'/> | <img width="100" height="100" src='https://media.licdn.com/media/p/5/005/082/1df/309a58e.jpg' alt='Dushan'/>
+
+Udara
+=======
+Udara Piumal is an undergraduate from University of Moratuwa, Sri Lanka. He is a student with a curious mind to discover new technologies, solve problems and invent new things to the world to make it a better place. He is currently interning at Atrenta and seeking opportunity to build an awsome thing. 
+
+Mahesh
+=======
+Mahesh is an electronic and telecommunication engineering undergraduate of University of Moratuwa which is the prominent technical university in Sri Lanka.Mahesh has a inherent caliber towards computing and developments and has a lot of milestones in his life.
+
+Dulitha
+=======
+Dulitha Kularathne is a work oriented person who seeks seamless opportunities in order to enhance the skills set. He is very much motivated by a competitive working environment which gives enough opportunities to sharpen his skills and learn new domains in the software industry.
+
+Madushan
+=======
+Madushan is a passionate person who would like to explore the new areas of Science, Computer technology, Nature and Humane Society.
+
+Dushan
+======
+Dushan, an undergraduate student of University of Colombo and Open University of Sri Lanka. He is following Bachelor of Information Technology and B.Tech in Computer Engineering degrees. He has 3+ years experience in programming. Worked for few reputed organizations and currently working as a trainee software engineer in hSenid Mobile Solutions, Sri Lanka. A Js & PHP lover, working with scala from one & half year. A blogger and an Open source lover.
+
+---------------------------------------
+
 # team «Peace»
 
 My name is Vitaly, and this is Artem. So, we will try realize some of our ideas. We live in the city of Orel, a small town in Russia, but do not worry, we're not bears.
@@ -7920,6 +8010,28 @@ I really love to try something new, and that's why I'm here.
 
 ---------------------------------------
 
+# Team Mordor
+I am Abhishek gahlot and this is my team. I am single member of team mordor.
+
+
+## About Me
+- Abhishek: I love Python and Go and I am gonna use one of these in this hackathon.
+
+
+
+## Languages and Frameworks I Like
+
+- Python
+- Golang
+- Javascript
+- HTML5
+- Flask
+- AngularJS
+
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -9133,6 +9245,26 @@ I'm codding guru 8-)
 I'm Csaba and in my team is only one member: myself.
 
 I like Java, PHP and now my new favorites is AngularJS.
+
+
+---------------------------------------
+
+#We are XCoders and we love building cool software
+
+##About us
+
+We are Software Engineers who passed out from the university recently. We have lots of experience in building cool applications.
+We have taken part in open source software development and we both still love it!
+
+##What we love
+
+We love to do cool things! You name the technology, we will learn and do what is required as long as we find it cool!
+We have worked with many technologies, frameworks and platforms including Java, JavaScript, jQuery, HTML5, Spring MVC, Cloudbees,
+Amazon AWS, JSP, Andriod, XSLT, XPath, etc...............
+
+######Driven by our passion in helping others, we expect to do something that will help many. More details to come later!
+
+
 
 
 ---------------------------------------
@@ -10545,6 +10677,40 @@ What I am going to do?
 =======
 We have some ideas about theme 1. It will be cool and fun. 
 
+
+---------------------------------------
+
+Welcome to Popzi team page!
+================
+
+We are a team of friends with a desire to bring up an innovative solution to make real time communication more fun and personalized. Our own experiance with popular chat applications has lead us to think of an 'out of box solution' where user feels more control over his real time experience.  
+
+About Our Team
+===========================
+
+| Udara | Mahesh | Dulitha | Mahesh | Dushan
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/091/1a5/1fce262.jpg' alt='Udara'/> | <img width="100" height="100" src='https://media.licdn.com/media/p/5/005/05f/383/3d71bc7.jpg' alt='Mahesh'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/081/0b4/2c70420.jpg' alt='Dulitha'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/018/0ba/0b49f41.jpg' alt='Madushan'/> | <img width="100" height="100" src='https://media.licdn.com/media/p/5/005/082/1df/309a58e.jpg' alt='Dushan'/>
+
+Udara
+=======
+Udara Piumal is an undergraduate from University of Moratuwa, Sri Lanka. He is a student with a curious mind to discover new technologies, solve problems and invent new things to the world to make it a better place. He is currently interning at Atrenta and seeking opportunity to build an awsome thing. 
+
+Mahesh
+=======
+Mahesh is an electronic and telecommunication undergraduate of University of Moratuwa which is the prominent technical university in Sri Lanka.Mahesh has a inherent caliber towards computing and developments and has a lot of milestones in his life
+
+Dulitha
+=======
+Dulitha Kularathne is a work oriented person who seeks seamless opportunities in order to enhance the skills set. He is very much motivated by a competitive working environment which gives enough opportunities to sharpen his skills and learn new domains in the software industry
+
+Madushan
+=======
+Madushan is a passionate person who would like to explore the new areas of Science, Computer technology, Nature and Humane Society.
+
+Dushan
+======
+Dushan, an undergraduate student of University of Colombo and Open University of Sri Lanka. He is following Bachelor of Information Technology and B.Tech in Computer Engineering degrees. He has 3+ years experience in programming. Worked for few reputed organizations and currently working as a trainee software engineer in hSenid Mobile Solutions, Sri Lanka. A Js & PHP lover, working with scala from one & half year. A blogger and an Open source lover.
 
 ---------------------------------------
 
