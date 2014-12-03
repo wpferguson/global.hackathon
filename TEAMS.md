@@ -6419,16 +6419,9 @@ Bayu is UI/UX guy, who works mostly with photoshop and other UI tools, he is als
 
 # PoplarFluff Team
 
-Coming soon
+We are the PoplarFluff team. We are team of programmers from Smolensk.
 
-# About Us
-
-Coming soon
-
-# Languages
-
-- Javascript
-- PHP
+We love PHP and JavaScript.
 
 
 ---------------------------------------
@@ -8191,6 +8184,23 @@ I'm python developer from Ukraine.
 
 ---------------------------------------
 
+##Team Phoenix:
+
+Team comprises of Sudharsanan, Shrikanth and Girish. 
+
+##About Us:
+
+- We love to code in Ruby. Ruby on Rails developers. We also like to code in Javascript. Sometimes Emberjs.
+
+##Languages:
+
+- Ruby/ Ruby on Rails
+- Javascript
+- Emberjs
+
+
+---------------------------------------
+
 ## Team Pooky
 
 We will have an _awesome_ first December weekend, coding, having fun (and waiting for Saint Nicholas' presents ;)).
@@ -9324,6 +9334,34 @@ Ivan is silent Ruby developer who dreaming about long-long Rails project.
 - JS
 - PHP
 - HTML5
+
+
+---------------------------------------
+
+About Me
+===========================
+
+
+Juhasz Gergo, last years electrical engineering student in Romania.
+I joined to see who a competition is like. I want to test myself and have some Koding fun :)
+
+Skills:
+ * HTML5
+ * CSS3
+ * JS
+ * PHP
+ * Laravel
+ * MySQL
+ * SQlite
+ * Python
+ * Flask
+ * REST-API
+ * NodeJS
+ * JQuery
+ 
+
+
+
 
 
 ---------------------------------------
@@ -10694,6 +10732,14 @@ I want to implement something helpful and distraction free tool for daily usage.
 Something that you can setup for your needs.
  
 I'd like to use AngularJS and MongoDB with simple NodeJS server. 
+
+
+---------------------------------------
+
+mother
+======
+
+We are three web devs.
 
 
 ---------------------------------------
