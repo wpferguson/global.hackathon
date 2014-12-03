@@ -5,14 +5,14 @@
             "name": "Alan Norton",
             "twitter": "nonrational",
             "koding": "nonrational",
-            "location": "New York, US",
-            "lead": true
+            "location": "New York, US"
         },
         {
             "name": "John Mileham",
             "twitter": "jmileham",
             "koding": "jmileham",
-            "location": "New York, US"
+            "location": "New York, US",
+            "lead": true
         },
         {
             "name": "Sam Moore",
