@@ -4,7 +4,9 @@ We are into game development and we are using it as a learning block for kids
 
 About your team
 ===========================
-Coming Soon
+Jeremy Wandui
+Maharshi Choudhury
+Subhnedu Ghosh
 
 Tell us who you are, why you did you decide to join?
 =======
