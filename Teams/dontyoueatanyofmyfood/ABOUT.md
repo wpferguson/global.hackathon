@@ -12,7 +12,7 @@ About your team
 
 | Marvin | Christian | Marc 
 |--- |--- |---
-| ![Marvin](https://www.dontyoueatanyofmyfood.com/img/marvin.jpg) | ![Christian](https://www.dontyoueatanyofmyfood.com/img/chris.jpg) | ![Marc](www.dontyoueatanyofmyfood.com/img/marc.jpg) | 
+| ![Marvin](http://dontyoueatanyofmyfood.com/img/marvin.jpg) | ![Christian](http://dontyoueatanyofmyfood.com/img/chris.jpg) | ![Marc](http://dontyoueatanyofmyfood.com/img/marc.jpg) | 
 
 
 
