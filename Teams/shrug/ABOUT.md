@@ -1,25 +1,26 @@
 Team ¯\_(ツ)_/¯
-================
+===============
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
+This is Team I-Didn't-Have-A-Better-Name-For-It or Team ¯\_(ツ)_/¯ for short.
+
+I like web technologies, specifically building on top of already powerful services and extending them. For example, taking the WUndgeround weather API and using sunset time to turn the lights in my house on. Or by combining Rotten Tomatoes and Redbox to find critically acclaimed movies that I can immediately pick up (that is if I can be bothered to put on pants).
 
 
 About your team
-===========================
+===============
 
-| devrim | nitin | sinan | emre
-|--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| jacroe 
+|--- 
+| ![Jacroe](https://secure.gravatar.com/avatar/8e85a3db943a53e5baa1a2e197d08118?size=200px) |
 
-Tell us who you are, why you did you decide to join?
-
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+I move bits around.
 
 
-About your skills and what you are going to do?
-=======
-While the project is still being brainstormed, something using governement data or news sources will be used.
+My Skillz
+=========
 
+Like I said, I really like web technologies so I'll be developing in PHP5 with some Python as a backend, HTML5, and jQuery. Probably use Bootstrap since I'm a terrible designer
 
+Right now, I'm thinking of visualizing or re-thinking how people look at some government data. Which agency's? And in what ways?
+
+¯\_(ツ)_/¯
