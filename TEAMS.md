@@ -1035,6 +1035,11 @@ always possible to make it awesome.
 
 ---------------------------------------
 
+//about
+
+
+---------------------------------------
+
 Appthentic
 ================
 
@@ -5144,6 +5149,16 @@ My plan is to create one of educational prototypes for this first global hackath
 ---------------------------------------
 
 
+# Team Kodit
+
+I am Jithin.
+
+I love Python, C and a bit of Android programming.
+
+
+---------------------------------------
+
+
 # Team Kode Gang
 
 We are Viswaprasath and Barath who loves programming and loves to participate in hackathons to learn more about new product development.
@@ -6289,6 +6304,27 @@ We are Pixelcreart team and we bring ideas thinking by people for people
 - PHP
 - JavaScript
 - AngularJS
+
+
+---------------------------------------
+
+#Pixl
+
+We are a team of three, we do intersting stuff!
+
+#About us
+Anurag: I am a computer science undergraduate. I love building games.
+Anirudh: I dance.
+Zaid: I teach Anirudh how to dance.
+
+#Skills
+
+- Java
+- C++
+- C
+- Python
+- PHP
+- Javascript
 
 
 ---------------------------------------
