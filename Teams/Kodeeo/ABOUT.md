@@ -24,7 +24,7 @@ Skills and Project
 =======
 I have more than six years of working experience working with PHP and MySQL. Currently I do most of my development works with Laravel 4. I have sound knowledge on front-end development and I use Bootstrap most of the time. Started developing both native and hybrid mobile app now-a-days.
 
-We will build a web app that will try to solve the biggest problem of Dhaka City - "Transportation Problem".
+We will build a web app that will try to solve the biggest problem of third world cities - "Transportation Problem".
 
 Features:
 * Traffic Jam Updates
