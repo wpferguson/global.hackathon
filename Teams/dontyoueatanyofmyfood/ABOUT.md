@@ -12,11 +12,11 @@ About your team
 
 | Marvin | Christian | Marc 
 |--- |--- |---
-| ![Marvin](http://dontyoueatanyofmyfood.com/img/marvin.jpg) | ![Christian](http://dontyoueatanyofmyfood.com/img/chris.jpg) | ![Marc](http://dontyoueatanyofmyfood.com/img/marc.jpg) | 
+| ![Marvin](http://dontyoueatanyofmyfood.com/img/marvin.jpg) | ![Christian](http://dontyoueatanyofmyfood.com/img/chris.jpg) | ![Marc](http://dontyoueatanyofmyfood.com/img/marc2.jpg) | 
 
 
 
-About your skills and what you are going to do?test
+About your skills and what you are going to do?
 =======
 
 
