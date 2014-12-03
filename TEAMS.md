@@ -3667,6 +3667,25 @@ It's going to be a game.
 
 ---------------------------------------
 
+FrankTheTank
+================
+
+| Frank |
+|--- |
+| <img width="100" height="100" src='http://i.imgur.com/DEjorFfl.jpg' alt='Frank'/> | 
+
+Hey there, I'm Frank, a German student currently interning in the Bay Area.
+I love hackathons and hacking challenges, in which I participated a lot with fellow students.
+
+Skills
+=======
+I love to develop in Go to solve data-intensive backend challenges.
+Besides the usual HTML5/JS/CSS3 frontend stuff, I'm currently experimenting with Polymer.dart.
+Most of my little projects (privately and at hackathons) run on the Google Cloud Platform.
+
+
+---------------------------------------
+
 Team Fringe Kase
 ================
 
@@ -9511,6 +9530,21 @@ I like Java, PHP and now my new favorites is AngularJS.
 
 ---------------------------------------
 
+# Team : X-Men
+
+# About Us
+
+We are collegues based in Hyderabad , India , looking forward for improvising  a stellar application for the first ever virtual global hackathon .
+
+Our team members are highly proficient in an array of programming languages from traditional imperative languages to several web technologies and Api's.
+
+
+ 
+
+
+
+---------------------------------------
+
 #We are XCoders and we love building cool software
 
 ##About us
@@ -11227,6 +11261,11 @@ undefined
 =========
 
 undefined
+
+---------------------------------------
+
+We are the vrock team participating in koding hackathon
+
 
 ---------------------------------------
 
