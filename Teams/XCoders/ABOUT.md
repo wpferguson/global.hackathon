@@ -1,4 +1,4 @@
-#We are XCoders, with a passion in building cool software.
+#We are XCoders, with a passion in building cool software
 
 ##About us
 
