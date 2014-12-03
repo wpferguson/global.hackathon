@@ -5,7 +5,8 @@
       "name": "Deepak Sandhu",
       "twitter": "",
       "koding": "superchicken",
-      "location": "Prince George, CA"
+      "location": "Prince George, CA",
+      "lead": true
     },
     {
       "name": "Ethan Holmes",
@@ -17,8 +18,7 @@
       "name": "Adam Bryant",
       "twitter": "",
       "koding": "",
-      "location": "Vancouver, CA",
-      "lead": true
+      "location": "Vancouver, CA"
     }
   ]
 }
