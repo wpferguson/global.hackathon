@@ -3,15 +3,14 @@ Gaining Momentum
 
 Forever unsatisfied with the state of Dev-tools, finally ran out of excuses not to try my own..
 
-About your team
-===========================
+Team Crystallized
+=================
 
 Pascal -> very briefly Java -> Python -> C++ -> Javascript.
 
 Looking forward to giving something back to the community.
 
-
-About your skills and what you are going to do?
+*In case it goes well, maybe will bring in a designer friend to polish things up a bit
 
 =======
 Fell in a love-hate relationship with Javascript 2 years ago. 
