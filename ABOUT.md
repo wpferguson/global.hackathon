@@ -9,8 +9,9 @@ Assume the role of a hacker lost in his own puzzle - an infinite RPG spanning th
 About your team
 ===========================
 
-| simon | 
-| ![Devrim](kofe.png) |
+| simon
+| --- |
+| ![Simon](kofe.png) |
 
 I am an aspiring lifelong hacker. Ever since I got my hands on eletronics I was involved in changing the way it works because, well, nothing works the way it's supposed to! From opera songs on Commodore 64 to mechanical devices with Raspberry PI - I liked to get my hands dirty with. My carreer so far however has been mostly business but not much on the not so serious side. 
 
