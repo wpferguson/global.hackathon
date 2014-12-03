@@ -13,9 +13,9 @@ We are Code passionate, hackers and most important a learner. We decide to join 
 About your skills and What you are going to do ?
 ===================================
 Full stack dev
--Python
--Javascript
--Jquery
--Postgres
--RubyonRails
--R
++ Python
++ Javascript
++ Jquery
++ Postgres
++ RubyonRails
++ R
