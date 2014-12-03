@@ -27,7 +27,7 @@ Raosan
 
 He is a data researcher. Think quietly. Think globally, act locally.
 
-Raosan
+Kurniawan
 --------
 
 He is awesome artist. Cool design and fantastic user interface!
