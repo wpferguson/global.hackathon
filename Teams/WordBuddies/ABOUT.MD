@@ -25,7 +25,7 @@ Here, at **WordBuddies ™**, we will&hellip;
 * With **fun**; 
 * and with **competition**.
 
-**WordBuddies** is (*or, let us say, "will be"*) an addictive platform for all word-lovers.
+**WordBuddies ™** is (*or, let us say, "will be"*) an addictive platform for all word-lovers.
 
 > You will learn vocabulary using the **BuddyEffect ™** and **gamification**, without even realizing that you do!
 
