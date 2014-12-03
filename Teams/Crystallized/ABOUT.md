@@ -6,10 +6,14 @@ Forever unsatisfied with the state of Dev-tools, finally ran out of excuses not 
 About your team
 ===========================
 
-Pascal -> very briefly Java -> Python -> C++ -> Javascript. Looking forward to giving something back to the community.
+Pascal -> very briefly Java -> Python -> C++ -> Javascript.
+
+Looking forward to giving something back to the community.
 
 
 About your skills and what you are going to do?
 
 =======
-Fell in a love-hate relationship with Javascript 2 years ago. This weekend, we are gonna have the talk - can we make it work long term? Or are the scars from her past too deep? 
+Fell in a love-hate relationship with Javascript 2 years ago. 
+
+This weekend, we are gonna have the talk - can we make it work long term? Or are the scars from her past too deep? 
