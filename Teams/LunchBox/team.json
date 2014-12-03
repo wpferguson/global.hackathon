@@ -26,6 +26,12 @@
 	      "koding"	 : "jiteshk",
 	      "location" : "Roorkee, IN",
 	      "lead"	 : true
+	    },
+	    {
+	      "name"	 : "Samyak Datta",
+	      "twitter"	 : "gedwey_parfait",
+	      "koding"	 : "samyak-268",
+	      "location" : "Roorkee, IN"
 	    }
 	]
 }
