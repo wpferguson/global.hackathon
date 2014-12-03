@@ -6,13 +6,13 @@ Welcome to Team OurBrilliance!
 </p>
 
 We are a group of high school students with varying degrees of experience with code and a burning passion for creation! We're looking forward to working with all of the frameworks we can here!
-For Qile, Akash, Arsalan and Fiza, this will be our second ever hackathon. It'll be the first one for Mona! We're all here to learn as much as we can, and do our very best to make something great!
+This will be our second ever hackathon, but not together.  We're all here to learn as much as we can, and do our very best to make something great!
 We're all psyched out to be a part of the world's first ever global virtual hackathon!
 
 
-| Qile | Akash | Andany | Fiza | Mona
-|--- |--- |--- |--- |---
-| ![Qile](http://i.imgur.com/UH74YC5.jpg)| ![Akash](http://i.imgur.com/ixbdc3o.jpg)| ![Andany](http://i.imgur.com/vrpZDn1.jpg)| ![Fiza](http://i.imgur.com/UnBkSZG.jpg) |![Mona](http://i.imgur.com/z8AsmZZ.jpg)|
+| Qile | Akash | Andany | Fiza 
+|--- |--- |--- |---
+| ![Qile](http://i.imgur.com/UH74YC5.jpg)| ![Akash](http://i.imgur.com/ixbdc3o.jpg)| ![Andany](http://i.imgur.com/vrpZDn1.jpg)| ![Fiza](http://i.imgur.com/UnBkSZG.jpg) |
 
 
 Qile
@@ -38,11 +38,3 @@ Fiza
 ========
 Fiza is an ambitious Software Engineer, currently in highschool. She is a self-taught coder and has experience coding in JavaScript, Python and Perl. She is passionate about robotics, photography and coding. Geek at heart and ready to code the next big phenomena with team OurBrilliance.
 
-Mona
-========
-Mona Shamte is a canadian twelfth grader. She is originally from Dubai.
-Mona loves to code and is super psyched about participating in the
-world's first virtual hackathon. She is a proficient java-and-html-er
-and looks forward to putting her skills on the test. She is often called 
-the newb of her group (as this is her very first hackathon ever) but 
-she's here to shake that title off!
