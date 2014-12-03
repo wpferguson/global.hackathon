@@ -4,7 +4,7 @@ Kodeeo
 We are team Kodeeo. We virtualize your problems into solution to give you a better world.
 
 
-About your team
+The team
 ===========================
 
 | smseleem |
@@ -20,8 +20,10 @@ This is my main inspiration to join this hackathon and I will build something th
 I will want other change makers to join me and be my companion to continue this run :) Happy coding!
 
 
-About your skills and what you are going to do?
+Skills and Project
 =======
+I have more than six years of working experience working with PHP and MySQL. Currently I do most of my development works with Laravel 4. I have sound knowledge on front-end development and I use Bootstrap most of the time. Started developing both native and hybrid mobile app now-a-days.
+
 We will build a web app that will try to solve the biggest problem of Dhaka City - "Transportation Problem".
 
 Features:
