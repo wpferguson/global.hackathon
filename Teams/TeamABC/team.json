@@ -1,0 +1,36 @@
+{
+  "teamName": "TeamABC",
+  "members": [
+    {
+      "name": "Alvin Ong Xing Jui",
+      "twitter": "xing_jui",
+      "koding": "koding username",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Lim Jit Yang",
+      "twitter": "zcythe_lim",
+      "koding": "zcythe",
+      "location": "Kuala Lumpur, MY"
+    },
+    {
+      "name": "Sinan Yasar",
+      "twitter": "sinanyasar",
+      "koding": "sinan",
+      "location": "San Francsico, US",
+      "lead": true
+    },
+    {
+      "name": "Devrim Yasar",
+      "twitter": "devrimyasar",
+      "koding": "devrim",
+      "location": "San Francsico, US"
+    },
+    {
+      "name": "Nitin Gupta",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Turin, IT"
+    }
+  ]
+}
