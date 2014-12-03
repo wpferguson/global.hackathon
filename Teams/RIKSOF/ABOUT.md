@@ -10,8 +10,8 @@ Our Team
 ===========================
 
 | mkhurramali | mzeeshan | zzlalani | riksof-rehan | sharjeelkhan |
-![mkhurramali]((https://dl.dropboxusercontent.com/content_link/AIkIYSOb8dzZfRAKohzFzH7ml4MPmx7xtF3qqg3KuolnmCPyA9r67wMfdKZeRMMa) | ![mzeeshan](https://dl.dropboxusercontent.com/content_link/IQHZQKGC7fRktoXj7hy0ouTP4KbXsZ3GORpgcWIG3iQUhBc8TANpGMi6Ox71Ll45) | ![zzlalani]((https://dl.dropboxusercontent.com/content_link/2kXFm4XeUfCZJiQvftMWze1uCkJedvmE2Kw6UUyhN3u9wmd2pOWc4OSRSLDgMdHh) | ![riksof-rehan]((https://dl.dropboxusercontent.com/content_link/TUyq24mbnqgHzyHvKp6dCapiHP0QJ9L4tfR4BZPlojAqEJw73Skpx6VSV0U7n7E8) |
-![sharjeelkhan]((https://dl.dropboxusercontent.com/content_link/1eaGyzU7mZ9yAPzLzjHa3erX8yjItiudyL2qNqNirpSh0WmXIU8hNYDSwt4IT3gA) |
+![mkhurramali](https://dl.dropboxusercontent.com/s/fvb5di7forgt3ia/lead.jpg) | ![mzeeshan](https://dl.dropboxusercontent.com/s/qksqhfxxcg5gf82/d1.jpg) | ![zzlalani](https://dl.dropboxusercontent.com/s/wy5sgbdyfux2yzh/d2.jpg) | ![riksof-rehan](https://dl.dropboxusercontent.com/s/asbngo8y0lvj27h/q1.jpg) |
+![sharjeelkhan](https://dl.dropboxusercontent.com/s/a2xp5bw63imyl38/d3.jpg) |
 
 M Khurram Ali (Lead)
 =======
