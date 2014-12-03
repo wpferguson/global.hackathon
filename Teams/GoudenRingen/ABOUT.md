@@ -8,9 +8,9 @@ We are interested in business and technical. To make better world!
 The Team
 ===========================
 
-| raosan | fatoni | andy
+| raosan | fatoni | andy | kurniawan
 |--- |--- |--- 
-| ![Raosan](http://jarkomania.com/aset/img/raosan-fikri-lillahi.png) | ![Fatoni](http://jarkomania.com/aset/img/fatoni.jpg) | ![Andy](http://jarkomania.com/aset/img/andy-primawan.png)  
+| ![Raosan](http://jarkomania.com/aset/img/raosan-fikri-lillahi.png) | ![Fatoni](http://jarkomania.com/aset/img/fatoni.jpg) | ![Andy](http://jarkomania.com/aset/img/andy-primawan.png) | ![Kurniawan](http://jarkomania.com/aset/img/kurniawan.png)  
 
 Andy
 ----------
@@ -27,3 +27,7 @@ Raosan
 
 He is a data researcher. Think quietly. Think globally, act locally.
 
+Raosan
+--------
+
+He is awesome artist. Cool design and fantastic user interface!
