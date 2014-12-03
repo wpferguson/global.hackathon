@@ -1,0 +1,24 @@
+{
+  "teamName": "TeamBee",
+  "members": [
+    {
+      "name": "Full Name",
+      "twitter": "twitter acct no @",
+      "koding": "koding username (required)",
+      "location": "city, 2 digit country code"
+    },
+    {
+      "name": "Lucian Cerbu",
+      "twitter": "luciancerbu87",
+      "koding": "luciancerbu87",
+      "location": "Timisoara, RO"
+      "lead":true
+    },
+    {
+      "name": "Nitin Gupta",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Turin, IT"
+    }
+  ]
+}
