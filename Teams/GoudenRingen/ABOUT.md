@@ -10,7 +10,7 @@ The Team
 
 | raosan | fatoni | andy | kurniawan
 |--- |--- |--- |---
-| ![Raosan](http://jarkomania.com/aset/img/raosan-fikri-lillahi.png) | ![Fatoni](http://jarkomania.com/aset/img/fatoni.jpg) | ![Andy](http://jarkomania.com/aset/img/andy-primawan.png) | ![Kurniawan](http://jarkomania.com/aset/img/kurniawan.png)  
+| ![Raosan](http://jarkomania.com/aset/img/raosan-fikri-lillahi.png) | ![Fatoni](http://jarkomania.com/aset/img/fatoni.jpg) | ![Andy](http://jarkomania.com/aset/img/andy-primawan.png) | ![Kurniawan](http://jarkomania.com/aset/img/kurniawan.jpg)  
 
 Andy
 ----------
