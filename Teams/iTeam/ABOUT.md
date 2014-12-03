@@ -2,8 +2,8 @@
 #Idea for Hackaton
 
 We will work on HTML5 game that will learn 
-freelancers to communicate with customers 
-to earn more money and avoid problems.
+freelancers to improve negotiation skills
+for earn more money and avoid problems.
 
 
 #About team
