@@ -8,7 +8,7 @@ Majority of us are from Guatemala, we are students who love to code and build th
 
 Hola! Somos un equipo de Guatemala, somos estudiantes a quienes les gusta programar y construir cosas, no solo hemos tenido experiencia programando sino jugando un poco con Electrónica y Tecnología Creativa, la cual es muy poco aplicada en nuestro país.
 
-Acerca de nuestro Equipo
+Our Team
 ===========================
 
 |Daniel (dahngeek)|Edgar (colochob)|
