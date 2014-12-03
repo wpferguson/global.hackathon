@@ -28,7 +28,7 @@ Features:
 * Traffic Jam Updates
 * Car Pooling
 
-API to bw used:
+API to be used:
 * Facebook
 * Google Geocoding
 * Twitter
