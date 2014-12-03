@@ -12,15 +12,13 @@
       "name": "Andrew White",
       "twitter": "pixeltrix",
       "koding": "pixeltrix",
-      "location": "London, UK",
-      "lead": false
+      "location": "London, UK"
     },
     {
       "name": "Pawel Janiak",
       "twitter": "cynicalgrinch",
       "koding": "pawel2105",
-      "location": "Johannesburg, ZA",
-      "lead": false
+      "location": "Johannesburg, ZA"
     }
   ]
 }
