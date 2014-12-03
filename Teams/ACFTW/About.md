@@ -2,11 +2,12 @@
 Hi! We are high-school students from Sri Lanka.
 
 Team Members
-============
-Navoda Bandara => Leader
-Vihanga Ashinsana
-Chavidu Kalpana
-Pasindu Chathuranga
+====================
+* Navoda Bandara
+* Vihanga Ashinsana
+* Chavidu Kalpana
+* Pasindu Chathuranga
+  
 
 Reason
 ======
