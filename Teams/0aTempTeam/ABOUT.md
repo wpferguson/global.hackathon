@@ -28,6 +28,8 @@ Full Stack Developer
 
 Hello, I am Dennis Planting. I am 16 years old and from Sweden. I am a programmer and a server administrator. I have knowledge of multiple languages ranging from simpler languages like LUA and JavaScript up to languages like C++, Java and so on. I enjoy anything related to technology like coding, gaming, hardware hacking, etc. I can't call my self an expert in most areas, but I am fairly well rounded in everything, so my main role will be helping in multiple areas as well as helping where others know less.
 
+(Dennis may or may not be a unicorn.)
+
 #Our Combined Skillset
 
 HTML5, 
