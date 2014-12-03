@@ -8,19 +8,9 @@
     },
     {
       "name": "Talha Ashraf",
-      "koding": "",
+      "koding": "talhashraf",
       "location": "karachi, PA"
-    },
-    {
-      "name": "Ammar Ahmed",
-      "koding": "",
-      "location": "karachi, PA",
       "lead": true
-    },
-    {
-      "name": "Daniyal Raza",
-      "koding": "",
-      "location": "karachi, PA"
     }
   ]
 }
