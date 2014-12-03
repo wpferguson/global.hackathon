@@ -2607,6 +2607,34 @@ We are interested in learning and games, so we're heading towards these lines. (
 
 ---------------------------------------
 
+Colts
+================
+About Colts
+===========================
+| Ashish
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://wiki.mozilla.org/images/archive/b/b5/20141203072305!AshishNamdev.jpg' alt='Ashish'/> |
+
+
+I am a person believes in faith , love to meet people having different nature , a Kind of self conscious and warm hearted guy,love to face challenges.
+Connected with Mozilla for past 4 years to contribute mozilla ,i am SUMO Hindi Locale Leader (Hi-In) for mozilla and proud to be a mozillian.
+I am a programmer by nature and like To code In Java mainly with web development, more interested towards open source and kernel programming.
+Now a days hacking on Linux Kernel and Bootloader , going in the phase of experiments with kernel.
+
+I want to join Koding virtual hackathone to be part of this WORLD�S FIRST GLOBAL VIRTUAL #HACKATHON and get great experience of such event , to help myself
+with my upcoming projects.
+
+
+About your skills and what you are going to do?
+=======
+I am planning to develop an cross platform test automation  framework to work on android/ios/windows/linux automation
+using existing open source frameworks and APIs for test automation.
+
+
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -3029,6 +3057,14 @@ We are team DeeTee
 
 ---------------------------------------
 
+Democrafters
+=============
+- I am currently alone. Nitthilan K J.
+- Skills: Nodejs, Angularjs, Java, Python, C/C++
+
+
+---------------------------------------
+
 This is ~~our~~ my page
 ================
 A hackathon is always great motivation to jump-start a project!
@@ -3388,7 +3424,7 @@ We are still in planning for what we are going to do. To be updated soon.
 
 ---------------------------------------
 
-# EpciCode
+# Epic Coders
 
 ## About Us
 
@@ -3475,6 +3511,23 @@ Languages
 
 - Javascript
 - Python
+
+
+---------------------------------------
+
+== Team Name: Factorify
+
+-- About Us:
+
+I am a ronin developer and CTO of a new startup company Factorify.
+
+- Jakub Petr: The team :-)
+
+Languages :
+-> Java
+-> Javascript w/ jQuery & Angular.js
+-> HTML5/CSS3
+-> MongoDB
 
 
 ---------------------------------------
@@ -7649,6 +7702,42 @@ C/C++, Python, HTML
 
 ---------------------------------------
 
+# Team America's Page
+
+For an explanation of the name, google `team america music video`. Also, none
+of us was born in the US, but we're currently here, so we felt that we had to
+do this.
+
+
+## About
+
+| pwnall | stapark008 | yafim |
+|--- |--- |--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/436220927055904768/8X5x4Gt2_400x400.jpeg' alt='Pwnall'/> | <img width="100" height="100" src='https://media.licdn.com/media/p/3/005/07f/299/05f402e.jpg' alt='Stapark008'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/54429055/n1344120063_35916_94_400x400.jpg' alt='Yafim'/> |
+
+
+## Skills
+
+Victor is a PhD student in Computer Science at MIT. He is a Web developer and
+has contributed to Ruby on Rails, node.js, Chromium, WebKit, and related
+projects. While interning at Dropbox, Victor has created
+[dropbox.js](https://github.com/dropbox/dropbox-js/), the JavaScript client for
+the Dropbox API. Victor understands the Web platform, and has a fairly good
+intuition about architecting a Web application.
+
+Staphany graduated from MIT this year with a Bachelor's degree in Computer
+Science and Molecular Biology. During school, she used programming to process
+experimental datasets in a variety of fields, such as neural signal processing
+and red blood cell development. Soon after graduating, however, she discovered
+Web development and has since dedicated herself to becoming a well-versed Web
+developer. Her toolset includes Ruby on Rails, HTML, CSS, and Javascript.
+
+Yafim has a B.S. and an M.Eng. in Computer Science from MIT, and won MIT's
+first [IAP Web Programming Competition](http://web.mit.edu/6.470/).
+
+
+---------------------------------------
+
 Team Anxious
 ================
 
@@ -8091,6 +8180,13 @@ Now I'm a java architect with some Oracle Professional Certifications, I can
 work with: Java & JEE + frameworks, PHP, JavaScript (Backbone, Angular ...), SQL,
 HTML, CSS ... the list is very long :)
 
+
+
+---------------------------------------
+
+My name is Vadym. 
+
+I'm python developer from Ukraine.
 
 
 ---------------------------------------
@@ -10197,6 +10293,11 @@ I am a newbie developer, starting an awesome career.
 
 ---------------------------------------
 
+Just a random group of guys who happen to work together at the same company :)
+
+
+---------------------------------------
+
 # Team hausanfan
 Marcos F. Mayorga is the lonely mate
 
@@ -10274,34 +10375,41 @@ Most important reasons of participation in Global Hackathon:
 
 ---------------------------------------
 
-About team
+
+#Idea for Hackaton
+
+We will work on HTML5 game that will learn 
+freelancers to improve negotiation skills
+for earn more money and avoid problems.
 
 
-##########
+#About team
 
-Ivan Skorodumov
+##Ivan Skorodumov
 
 My experience in web-development more 6 years, 
+
 I prefer to working on backend (PHP, Yii framework, MySQL, API integration/automation). 
 Also I have experience with front-end (Javascript/jQuery, data visualization), 
 have strong math/analytics skills.
-My oDesk profile: https://www.odesk.com/users/~01033ce619dfb10d12
+
+oDesk profile: https://www.odesk.com/users/~01033ce619dfb10d12
 
 
-##########
-
-Shin Masaharu  
+##Shin Masaharu  
 
 Electrical Engineer by profession and my avid interest in firmware programming 
 lead me to exploring more programming languages and design patterns.
 Skills: Javascript, jQuery, AngularJS, UX design. Java, C, PHP, APIs & MySQL.
 
+oDesk profile: https://www.odesk.com/users/~010602673f4dd81166
 
-##########
 
-Joseph Loyola 
+##Joseph Loyola 
 
 front-end web developer html5 css3 javascript
+
+oDesk profile: https://www.odesk.com/users/~01a4baa7f15ff45738
 
 
 ---------------------------------------
