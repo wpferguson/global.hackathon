@@ -3,24 +3,28 @@
 We are the Geeky254 Team, so we are participating in Koding from Nairobi. We are quiet but our minds
 are forever at work.
 
+Joel Okomoli & Felista Moraa 
 
 About your team
 ===========================
 
-| devrim | nitin | sinan | emre
-|--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+Joel is a social entrepreneur who would invest in Agricultural enterprises that aim to increase food production while conserving the environment or Green Energy Companies that seek to enhance the use of renewable energy across the continent to meet the persistent shortage of power in Africa. I would also seek to invest in the under-utilized high rainfall zones (small holder farmers) or in the semi-arid regions with potential for irrigation. Horticulture and growing non-staple foods that are highly nutritious such as fruits and vegetables would be my area of interest. This is to ensure sustainable research and improved quality of yields. This can be realized by employing emerging mobile technologies.
 
-Tell us who you are, why you did you decide to join?
+Felista is a system administrator with a passion for programming, system analysis and design. She works in Nairobi and participates in the development of ICT in Africa. 
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+Tell us who you are, why you did you decide to join? 
+
+We decided to join because we love challenges and always look for opportunity to improve our skills in software development. 
+
+We would like to inspire our students with the right skills and urge them towards problem solving within the environment we live in. A lot of situations could be improved with the right tools and technologies but these are a long time coming due to lack of innovation.
 
 
 About your skills and what you are going to do?
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+Joel:
+I have excellent IT skills and experience of working with adult learners using MS Outlook, Word and Excel, php, ASP.Net and SQL. I have also taught business statistics to Accounting students. Previously I have worked as head of department (IT) at Oshwal College Parklands and Century College Machakos charged with implementation of IT projects, training, monitoring and evaluation, user support, programming, database design and implementation as well as data management. I have skills in IT audit procedures, risk analysis, hardware maintenance and network configuration in Windows/Unix environments. I hold a Bachelor of Science in Statistics and Computer Science (Moi University) and I am writing my final project for a Master of Science Degree in Information Systems at the University of Nairobi.
 
-You can change your mind, that's ok. Just push an update here when you do.
+What we wold like to do as a team is to develop an android native application that will improve farmers' access to market information and motivate their savings culture by posting weekly updates amongst peer organiations. This will keep the savings on an upward trajectory.
+
+Felista:
+Coming soon
