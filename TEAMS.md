@@ -2880,6 +2880,13 @@ I took computer classes during my High School years. Through edX, I was able to 
 
 ---------------------------------------
 
+DRY-Bali
+================
+
+Danish - Reydi - Yana
+
+---------------------------------------
+
 About my team (well, me really)
 ===========================
 Team member: Naglaa Eid (aka nagheid or nag for short ;) )
@@ -3952,7 +3959,7 @@ Jorge:
 An awesome guy,who won Google Code-In 2013.
 
 Harsh Vardhan:
-An awesome guy who participated in some coding contets and also participated in Google Code-In 2011 and 2012.
+An awesome guy who participated in some coding contests and also participated in Google Code-In 2011 and 2012.
 
 
 ## Languages we love:
@@ -4980,6 +4987,21 @@ We have skills to design, to code and to make anything looks pretty good.
 Have you seen a combination of Raspberry Pi, Arduino and lathe? We did it! Have you seen a backend for it? Oh, it's interesting. May be mobile app for it? Or just remote controled robot?
 
 So, we develop backend systems, frontend and mobile apps. It seems to be a full-stack.
+
+
+---------------------------------------
+
+#JustBorn
+
+I am Mario and i am pretty lonely in this trip.
+
+#About My Team
+
+- Mario: I am Mario, Nino my nickname and i am a programmer of Joomla. Basicly php, css, javascript. I am also a Charango builder. I play the guitar very much like to sing and improve. My Primary language is Spanish as you can tell so far. One more thing. I am really interesting about origin of the Human Kind. Very much follow everything about annunaki and current conspiricities going on.....
+
+#More about it
+
+I really would have like have more prepared for this event, but... Thanks and awesome things you all doing here...
 
 
 ---------------------------------------
@@ -6224,6 +6246,34 @@ Madushan is a passionate person who would like to explore the new areas of Scien
 Dushan
 ======
 Dushan, an undergraduate student of University of Colombo and Open University of Sri Lanka. He is following Bachelor of Information Technology and B.Tech in Computer Engineering degrees. He has 3+ years experience in programming. Worked for few reputed organizations and currently working as a trainee software engineer in hSenid Mobile Solutions, Sri Lanka. A Js & PHP lover, working with scala from one & half year. A blogger and an Open source lover.
+
+---------------------------------------
+
+About PalPHP team:
+===========================
+PalPHP team consists of 4 talented and passionate people ,
+
+1- Feras Saqqa : Back and front Developer , we can't imaging our work without Feras touches , me all Magic and blessing for PalPHP.
+
+2- Hamdan Taima : Back End Developer , with 11 Years of PHP Experiance , Built many big web systems, enrolled with startups and helped many to grow their business steady and professionally.
+
+3- Eyad Farra : A true Talented Man, he is a front end engineer, UX/UA expert , and believe me when I say he know AngularJS ;)
+
+4- Ohood Musabbeh : Back-end Developer Girl , She complete the circle and do her tasks professionally and with timely manner.
+
+We live in Gaza , Palestine , same city , same passion , diversity with perfection, and passionate for new challenges.
+It has been 4 years for us working on web development field , We know our stuff, and looking forward a new ERA to make a change.
+
+
+Skills
+=======
+PHP, HTML5 , CSS3 , AngularJS ... etc ;)
+
+
+Our Mession
+=======
+We want to make a change ;)
+
 
 ---------------------------------------
 
@@ -7626,6 +7676,25 @@ I'm Tim, hoping to build a team to do great things with mapping for a community 
 
 ---------------------------------------
 
+
+# Team yrral
+
+Trying to save the world, one line of code at a time
+
+## About Us
+
+- Larry
+- Ben
+- Bill:  I've come a long way since punching cards to write my first programs  :-)
+
+## Languages 
+
+- Ruby
+- Javascript/Coffeescript
+
+
+---------------------------------------
+
 Team1
 ================
 
@@ -8180,6 +8249,29 @@ HTML, CSS ... the list is very long :)
 My name is Vadym. 
 
 I'm python developer from Ukraine.
+
+
+---------------------------------------
+
+#Team Overflow
+
+We are Android developers from Islamabad, Pakistan.
+
+##About us
+
+We are making the world better.
+
+##Technologies we familiar
+
+- Java
+- Android
+- Gradle, Maven, And build systems
+- Google services (APIs)
+- Facebook, Twitter, Google+, VK APIs
+- Retrofit, Picasso, EventBus, Glide, Universal Image Loader
+- SQLite database
+- JSON & XML types
+- NDK
 
 
 ---------------------------------------
@@ -9785,6 +9877,27 @@ I am Sergii and I am going to change the World!
 
 - Javascript
 - PHP
+
+
+---------------------------------------
+
+# Channel 12
+
+My name is Vasanth, and have always been interested in computers ever since childhood. Robots and programming has
+always been my favorite thing to do in my free time.
+
+## About us
+
+-Vasanth Sadhasivan: I love Python, and Java as well as Javascript and HTML.
+
+## Languages we love
+
+-Java
+-Python
+-HTML
+-CSS
+-Javascript
+-Bash Script
 
 
 ---------------------------------------
