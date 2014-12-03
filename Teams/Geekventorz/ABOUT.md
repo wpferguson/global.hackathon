@@ -11,9 +11,8 @@ Hola! Somos un equipo de Guatemala, somos estudiantes a quienes les gusta progra
 Acerca de nuestro Equipo
 ===========================
 
-Somos:
-|Daniel (dahngeek)|Edgar (colochob)
-|--- |---
+|Daniel (dahngeek)|Edgar (colochob)|
+|--- |---|
 | ![Dahngeek](http://dahngeek.com/d/Geekventorz/smalldahngeek.jpg) | ![Colochob](http://dahngeek.com/d/Geekventorz/smallcolochob.jpg) |
 
 Edgar
