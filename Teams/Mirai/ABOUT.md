@@ -1,6 +1,4 @@
-#Welcome to our page!
-(which is still being made)
-We're team Mirai （未来）
+#Welcome, we're team Mirai （未来）
 
 
 #About Us
