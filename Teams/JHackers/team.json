@@ -4,23 +4,23 @@
         {
             "name": "Srinivas Miriyala",
             "koding": "srinivas2828",
-            "location": "India"
+            "location": "IN"
         },
         {
             "name": "AkshatSingh",
             "koding": "log2akshat",
-            "location": "Pune",
+            "location": "IN",
             "lead": true
         },
         {
             "name": "KumaranSB",
             "koding": "javagiri",
-            "location": "Pune"
+            "location": "IN"
         },
         {
             "name": "AditiBhatt",
             "koding": "aditibhatt18",
-            "location": "Pune"
+            "location": "IN"
         }
     ]
 }
