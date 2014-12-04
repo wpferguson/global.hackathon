@@ -95,6 +95,18 @@ Best at: Backend Web Development, Design
 
 ---------------------------------------
 
+0x614b
+================
+
+Lone participant from Cape Town, ZA
+
+Skills
+=======
+Erm. something's supposed to go here I guess xD
+
+
+---------------------------------------
+
 0xDEADBABE
 ================
 
@@ -4904,6 +4916,35 @@ Technologies: super PHP and amazing JS.
 
 ---------------------------------------
 
+This is our page
+================
+
+This team is called Go For Broke.  
+
+
+About your team
+===========================
+
+| mortdeus 
+
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000684947508/122b64dedd96542ed80b57e1597df0ae.jpeg' alt='mortdeus'/> | 
+
+Hi my name is Roger and I decided to join because I felt like it would be a fun experience to participate in the first ever virtual hackathon. I am personally inspired by the way the internet has revolutionized and inspired the act of a worldwide collaboration between hackers who collectively work together in open source software projects. 
+
+I believe the internet is a tool that enables for the best possible software to be produced because it provides an open channel for the best minds to communicate and share ideas. In the same way that the internet inspires collaboration, I am fascinated to participate in this virtual hackathon to see if the internet will inspire competition in a similar manner. Are we about to witness an epic battle between the smartest and most creative hackers in the world? I am excited to find out.       
+
+
+About your skills and what you are going to do?
+=======
+I am primarily a Go developer. (the team name being a pun where you run a goroutine on a for loop that calls a function broke; invalid syntax perhaps but "go func(){for{broke();}}" was a bit unwieldy)
+
+I like to poke my head around exotic low level software like research operating system kernels (plan9, inferno, etc) and new language compilers/runtimes. (go, rust, etc).
+
+The project I am going to be working on is a competitive multiplayer game that  
+helps teach Programming with an insight towards key principles like resource optimization and the design of powerful artifical intelligence algorithms.  
+
+---------------------------------------
+
 GoKode
 ================
 
@@ -6342,6 +6383,21 @@ I believe web is great tool that can be used to enhance our lives.
 Because of all the development difficulties people are being less creative and less efficient when pushing the envelope of web possibilities.
 
 My plan is to create one of educational prototypes for this first global hackathon, primarily using JavaScript.
+
+
+---------------------------------------
+
+#TEAM THE KNIGHT KODER
+
+Now I am alone in this team and I  like to do new things in programming and learn New awesome things.
+
+#ABOUT MY TEAM:
+  Name : Nabin Bhattarai
+  -> I love coding and solving problem in different and check which one is efficient one.
+     I love opensource and Linux.
+#Langauge:
+  -> C++
+  -> Python
 
 
 ---------------------------------------
@@ -7828,6 +7884,23 @@ feed him regularly, as he becomes fiesty and will not work! (or maybe he's just 
 
 ---------------------------------------
 
+# Who are we ?
+- We Are PEKKA , we are student & try to do programming for fun & learning we mostly love problem solving
+  
+# What are we going to do ? 
+- as this is our first hackathon , so we gonna see what can we do & we want to do some algorithm development & implementation 
+
+
+# Programming languages
+- C/C++
+- Java
+- Javascript
+- PHP
+- SQL
+
+
+---------------------------------------
+
 Welcome to POP_C team page!
 ================
 
@@ -8496,6 +8569,23 @@ We are Giang, Hoat and Tham from Viet Nam and we will give you awesome app!
 ## Languages we love:
 - PHP
 - Javascript
+
+
+---------------------------------------
+
+# Retarted Robots
+
+  The name of the team inspired from "Codi the retarded Robot".
+
+## About us
+
+  - Ghassen a top notch Pythonista, right now he working on spreading knowledge to the new Pythonista
+  around through the Python Tunisia Comunity where he has been Pyhon Advoate since 2009.
+  
+  - Fourat is a trend setting Pythonista (one of the 19% most active Python users on Github), 
+  currently he is busy with  his new born project, as he is enjoying seeing it grow.
+  With 1K download per month jasmin sms gateway is becoming a to be the #1 choice when it comes to 
+  Open Source SMS Gateway. 
 
 
 ---------------------------------------
@@ -13097,6 +13187,30 @@ Chances are that we're going to code in a completely different stack
 
 Our goal is to scratch our own pain and to build service that would help
 to write cleaner foreign language.  Natural language, I mean, like English.
+
+
+---------------------------------------
+
+EpsilonPI
+================
+
+Welcome to epsilonpi
+
+
+About us
+===========================
+
+| bhargav | david
+|--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/446199185319022592/5b5W6bcL_400x400.jpeg' alt='Bhargav'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000496838753/04ba0f8d78bd4f860a8ea3eb2279e4c3_400x400.jpeg' alt='David'/> |
+
+
+
+
+What we do
+=======
+
+
 
 
 ---------------------------------------
