@@ -10,9 +10,9 @@ This will be our second ever hackathon, but not together.  We're all here to lea
 We're all psyched out to be a part of the world's first ever global virtual hackathon!
 
 
-| Qile | Akash | Andany | Fiza 
-|--- |--- |--- |---
-| ![Qile](http://i.imgur.com/UH74YC5.jpg)| ![Akash](http://i.imgur.com/ixbdc3o.jpg)| ![Andany](http://i.imgur.com/vrpZDn1.jpg)| ![Fiza](http://i.imgur.com/UnBkSZG.jpg) |
+| Qile | Akash | Andany | Fiza | Lahiru
+|--- |--- |--- |--- |---
+| ![Qile](http://i.imgur.com/UH74YC5.jpg)| ![Akash](http://i.imgur.com/ixbdc3o.jpg)| ![Andany](http://i.imgur.com/vrpZDn1.jpg)| ![Fiza](http://i.imgur.com/UnBkSZG.jpg) | ![Lahiru](http://i.imgur.com/GfWRX9L.jpg)|
 
 
 Qile
@@ -38,3 +38,9 @@ Fiza
 ========
 Fiza is an ambitious Software Engineer, currently in highschool. She is a self-taught coder and has experience coding in JavaScript, Python and Perl. She is passionate about robotics, photography and coding. Geek at heart and ready to code the next big phenomena with team OurBrilliance.
 
+Lahiru A.K.A. "Larry"
+========
+Hi! 
+My name is Lahiru Atapattu and I'm 16 years old (but why does that matter anyway). My interests are anything
+computer related (hardware of software, I love both the same), gaming, cooking and of course, eating. I'm an
+avid Pokemon player as well as a student (Although balancing the two is hard xD).
