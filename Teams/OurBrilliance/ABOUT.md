@@ -40,7 +40,8 @@ Fiza is an ambitious Software Engineer, currently in highschool. She is a self-t
 
 Lahiru A.K.A. "Larry"
 ========
-Hi! 
-My name is Lahiru Atapattu and I'm 16 years old (but why does that matter anyway). My interests are anything
-computer related (hardware of software, I love both the same), gaming, cooking and of course, eating. I'm an
-avid Pokemon player as well as a student (Although balancing the two is hard xD).
+Larry or Lahiru, is the youngest of the group. Dragged in against his own will, Larry will be experiencing his
+first hackathon. He is a grade 11 IB student hoping to continue his studies at the University of Waterloo for Software Engineering or Computer Science. 
+Larry is fascinated by the world around him, like how engines work, why are some trees' bark so thick, why are there hats? 
+and where is the human race headed towards. Larry is proficient in Java, HTML/CSS and a little bit of Objective C / Swift. Remember to
+feed him regularly, as he becomes fiesty and will not work! (or maybe he's just lacking the essential nutrients to stay alive).
