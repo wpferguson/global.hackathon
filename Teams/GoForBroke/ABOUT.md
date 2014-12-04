@@ -8,8 +8,8 @@ About your team
 ===========================
 
 | mortdeus 
-|--- |--- |--- |---
-| ![mortdeus](https://pbs.twimg.com/profile_images/378800000684947508/122b64dedd96542ed80b57e1597df0ae.jpeg) 
+
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000684947508/122b64dedd96542ed80b57e1597df0ae.jpeg' alt='mortdeus'/> | 
 
 Hi my name is Roger and I decided to join because I felt like it would be a fun experience to participate in the first ever virtual hackathon. I am personally inspired by the way the internet has revolutionized and inspired the act of a worldwide collaboration between hackers who collectively work together in open source software projects. 
 
