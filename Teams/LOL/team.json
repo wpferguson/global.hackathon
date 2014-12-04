@@ -1,18 +1,13 @@
 {
 	"teamName": "LOL",
 	"members": [{
-		"name": "Ryan Lee",
-		"koding": "rgdlee98",
-		"location": "Hong Kong"
-	},
-	{
 		"name": "Arman Amini",
 		"koding": "dowye",
-		"location": "Hong Kong"
+		"location": "Hong Kong, HK"
 	},
 	{
 		"name": "Jeremy Roche",
 		"koding": "misterpotpot",
-		"location": "France"
+		"location": "Type Lyon, FR"
 	}]
 }
